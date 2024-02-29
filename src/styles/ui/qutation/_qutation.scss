@@ -1,0 +1,20 @@
+.qutation-card {
+  width: fit-content;
+  font-size: 16px;
+
+  td,
+  tr {
+    border-bottom: none;
+  }
+
+  .table {
+    margin: 0;
+  }
+}
+.qutation-header {
+  background-color: rgba($color: #d9d9d9, $alpha: 0.2);
+}
+.qutation-products {
+  overflow: auto;
+  max-height: 1000px;
+}

@@ -1,0 +1,118 @@
+.home-carousel {
+    .carousel-img {
+        min-height: 300px;
+    }
+
+    .content-container {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #FBE9D0;
+        z-index: 1000;
+        width: 16%;
+        top: 50%;
+        right: 15%;
+        transform: translateY(-50%);
+    }
+}
+
+.h-carousel-content {
+    display: flex;
+    flex-direction: column;
+
+
+
+    a {
+        width: fit-content;
+    }
+}
+
+.fixed-btns {
+    position: fixed;
+    right: 16px;
+    top: 50%;
+    left: 100%;
+    z-index: 1000;
+    transform: rotate(-90deg);
+
+    .fixed-link {
+        border-bottom-left-radius: 0 !important;
+        border-bottom-right-radius: 0 !important;
+        height: 40px;
+    }
+}
+
+.contact {
+    z-index: 100;
+    bottom: -42px;
+    background-color: $white;
+    padding: 1rem 1.5rem;
+    box-shadow: 3px 6px 19px -4px $light ;
+    border-top: 10px solid $primary;
+    left: 10%;
+}
+
+@include for-tablet {
+    .home-carousel {
+        .contact {
+            bottom: 40px;
+            left: 3%;
+
+            a {
+                font-size: 14px;
+            }
+        }
+
+        .content-container {
+            display: flex;
+            flex-direction: column;
+            z-index: 1000;
+            width: 45%;
+            top: 50%;
+            right: 5%;
+            transform: translateY(-50%);
+
+
+            h4 {
+                font-size: 16px;
+            }
+
+            p {
+                font-size: 12px;
+            }
+
+            a {
+                width: fit-content;
+            }
+
+            .h-carousel-content {
+                gap: 0.5rem !important;
+            }
+        }
+
+        .carousel-img img {
+            object-fit: cover;
+            min-height: 300px;
+        }
+
+    }
+
+    .swiper-slide {
+        padding-bottom: 65px;
+    }
+
+    #notification {
+        display: none;
+    }
+
+
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none;
+    }
+
+
+}

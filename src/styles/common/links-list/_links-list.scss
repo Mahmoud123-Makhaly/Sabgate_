@@ -1,0 +1,10 @@
+.dividers {
+    li {
+        padding: 0.5rem 0;
+
+        &:last-child {
+            border-bottom: none;
+        }
+
+    }
+}

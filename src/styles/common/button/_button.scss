@@ -1,0 +1,28 @@
+.button-maker {
+  font-size: 16px;
+  color: $heading;
+  font-family: inherit;
+  border-radius: 4px;
+  text-wrap: nowrap;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  
+  &:disabled {
+    background-color: $disabled !important;
+    border: 0;
+  }
+
+  @if (background-color==$primary or $orange) {
+    color: white;
+  }
+
+  &.btn-outline-primary {
+    color: $dark;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+}

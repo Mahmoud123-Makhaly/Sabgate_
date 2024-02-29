@@ -1,0 +1,66 @@
+.shop {
+  .text {
+    padding: 10px;
+    text-wrap: nowrap;
+  }
+
+  .find_out_more {
+    .text {
+      bottom: 2.375rem;
+    }
+  }
+  .sab_gate,
+  .sab_store {
+    .text {
+      top: 2rem;
+    }
+  }
+  .ask_experts {
+    .text {
+      top: 3.25rem;
+    }
+  }
+  .sab_information {
+    .text {
+      top: 1.688rem;
+    }
+  }
+}
+
+:dir(ltr) {
+  .shop {
+    .text {
+      width: fit-content;
+      left: 0 !important;
+    }
+  }
+}
+@include for-large-phones {
+  .shop {
+    .text {
+      font-size: 11px;
+    }
+  }
+}
+@include for-tv {
+  .shop {
+    .image_overlay {
+      img {
+        width: 100% !important;
+        height: fit-content !important;
+      }
+    }
+  }
+}
+@include for-tablet {
+  .sab_gate,
+  .sab_store,
+  .ask_experts,
+  .sab_information {
+    .text {
+      top: auto !important;
+      bottom: 2rem;
+      height: fit-content;
+    }
+  }
+}

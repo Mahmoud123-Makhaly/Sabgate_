@@ -1,0 +1,15 @@
+  .form-select {
+    background-image: url("../../../assets/svgs/construction-guide/arrow.svg") !important;
+    background-position: left 0.75rem center !important;
+    background-size: 13px 12px !important;
+    padding-inline-start: 1rem;
+  }
+
+  [data-layout-dir="ltr"] {
+
+    .form-select {
+      background-image: url("../../../assets/svgs/construction-guide/arrow.svg") !important;
+      background-position: right 0.75rem center !important;
+      background-size: 13px 12px !important;
+    }
+  }

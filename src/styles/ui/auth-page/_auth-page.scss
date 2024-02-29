@@ -1,0 +1,106 @@
+.auth-page {
+  min-height: calc(100vh - 64px);
+
+  .container {
+    &:first-child {
+      min-height: calc(100vh - 64px);
+
+      .row {
+        &:first-child {
+          min-height: calc(100vh - 64px);
+          align-items: center;
+          padding: 2rem 0rem;
+        }
+      }
+    }
+  }
+
+
+
+  background-image: url('../../../assets/images/login.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 0;
+
+  .auth-form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    padding: 7.5rem 6.875rem;
+
+    .form-title {
+      font-weight: 700;
+    }
+
+    .row {
+      min-height: auto !important;
+      padding: 0 !important;
+    }
+
+    a {
+      color: $primary;
+      text-decoration: underline;
+    }
+
+    input {
+      height: 44px;
+    }
+
+    button {
+      padding: 0;
+      height: 44px;
+    }
+
+
+  }
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  &::after,
+  &::before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #D0D5DD;
+  }
+
+  span {
+    margin: 0 10px;
+  }
+
+}
+
+
+@include for-tablet {
+  .auth-page {
+    background-image: none;
+
+    .auth-form {
+      padding: 5rem 1rem;
+      margin: 0;
+    }
+  }
+}
+
+@include for-phone {
+  .auth-page {
+    .container {
+      padding: 0;
+    }
+  }
+}
+
+[data-layout-dir='rtl'] {
+  .auth-page {
+    .auth-form {
+      margin-left: 0 !important;
+    }
+  }
+}

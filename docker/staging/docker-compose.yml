@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  sab-gate-website-env-staging:
+    build:
+      context: ../../
+      dockerfile: docker/staging/Dockerfile
+    image: sab-gate-website-env-staging
+    env_file:
+      - ../../.env.staging
+    ports:
+      - ${SAB_GATE_WEBSITE_STAGING_EXPOSED_PORT}:8095

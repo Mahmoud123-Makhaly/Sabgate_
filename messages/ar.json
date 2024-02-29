@@ -1,0 +1,907 @@
+{
+  "COMP_Navbar": {
+    "HOME": "الرئيسية",
+    "INSULATION": "أنظمة العزل",
+    "PACKAGES": "الباقات",
+    "APPLICATIONS": "تطبيقات وخدمات",
+    "SHOP": " المتجر",
+    "GUIDE": "دليل البناء",
+    "CONTACT_US": "تواصل معنا",
+    "BLOG": "المدونة",
+    "QUESTIONS": "أسئلة شائعة"
+  },
+  "COMP_Footer": {
+    "SUBSCRIBE_NOW": "اشترك الان",
+    "FOLLOW_US": "تابعنا على",
+    "ABOUT_SAB": "هي جزء من مجموعة ساب ، التي تعمل في العديد من الأعمال التجارية   التجارة الالكترونية - الاستشارات الادارية - الصيانة العامة & خدمات النظافة & مكافحة الآفات, تاسست 2004. ",
+    "SUPPORT_TEAM": "فريق الدعم",
+    "TERMS": "البنود و الشروط",
+    "DELIVERY_POLICY": "سياسة التوصيل",
+    "RETURN_POLICY": "سياسة الاسترجاع",
+    "CONTACT_US": "تواصل معنا",
+    "SAB_ADDRESS": "برج مكاتب جلفار 2508 - طريق الحصن - دفان النخيل - رأس الخيمة - الإمارات العربية المتحدة",
+    "SAB": "ساب",
+    "SHOP": " المتجر",
+    "SAB_TEAM": "فريق ساب",
+    "GET_APP": "احصل على التطبيق",
+    "EMAIL_ADDRESS": "البريد الالكتروني"
+  },
+  "COMP_ForgotPassword": {
+    "FORGOT_PASSWORD": "نسيت كلمة المرور",
+    "EMAIL_ADDRESS": "البريد الالكتروني",
+    "ENTER_EMAIL": "أدخل البريد الإلكتروني الذي استخدمته. سنرسل لك رابطًا لإعادة تعيين كلمة المرور الخاصة بك.",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "RESET_PASSWORD": "إعادة تعيين كلمة المرور",
+    "OR": "أو",
+    "BACK": "العودة إلى ",
+    "LOGIN": " تسجيل الدخول"
+  },
+  "COMP_ResetPassword": {
+    "NEW_PASSWORD": "إنشاء كلمة مرور جديدة",
+    "REPEAT_NEW_PASSWORD": "أعد إدخال كلمة المرور الجديدة",
+    "RESET_PASSWORD": "إعادة تعيين كلمة المرور",
+    "BACK": "العودة الى ",
+    "LOGIN": " تسجيل الدخول",
+    "OR": "أو"
+  },
+  "COMP_LoginForm": {
+    "LOGIN": "تسجيل الدخول",
+    "EMAIL_ADDRESS": "البريد الالكتروني",
+    "PASSWORD": "كلمة المرور",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "REQUIRED_PASSWORD": "يرجى إدخال كلمة المرور",
+    "REMEMBER_ME": "تذكرني ؟",
+    "DID_FORGOT_PASSWORD": "هل نسيت كلمة  المرور؟",
+    "DONT_HAVE_EMAIL": "ليس لديك حساب؟",
+    "SIGNUP": " إنشاء حساب جديد",
+
+    "INVALID_EMAIL_OR_PASSWORD": "ايميل او كلمة مرور غير صالحة "
+  },
+  "COMP_SignUpForm": {
+    "NAME": "الاسم",
+    "EMAIL_ADDRESS": "البريد الالكتروني",
+    "PASSWORD": "كلمة المرور",
+    "CONFIRM_PASSWORD": "تأكيد كلمة المرور",
+    "TERMS_CONDITIONS": "قبول الشروط و الأحكام",
+    "SIGNUP": "إنشاء حساب جديد",
+    "REGISTER": "تسجيل حساب جديد",
+    "OR": "أو",
+    "FACEBOOK_LOGIN": "تسجيل دخول بفيس بوك",
+    "GOOGLE_LOGIN": "تسجيل دخول بجوجل",
+    "HAVE_EMAIL": "لديك حساب؟ ",
+    "LOGIN": "تسجيل دخول",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "REQUIRED_PASSWORD": "يرجى إدخال كلمة المرور",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+
+    "FIRST_NAME": "الاسم الأول",
+    "LAST_NAME": "الاسم الأخير",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "PASSWORD_REGX_MATCH": "الرقم السري يجب ان يبدأ بحرف كا بيتال ويحتوي علي رمز",
+    "CONFIRM_PASSWORD_MATCH": "          يجب ان تكون الارقام السرية متطابقة     ",
+    "REQUIRED_TERMS_CONDITIONS": "يجب الموافقة علي الشروط والاحكام",
+    "BTN_REGISTER_LABEL": "انشاء حساب",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "ALREADY_EMAIL_EXISTS": "الايميل موجود بالفعل",
+    "SUCCESS_MSG": "تم انشاء الحساب بنجاح",
+    "SUCCESS_MSG_COUNTER": "تم بنجاح"
+  },
+  "COMP_Email_Confirmation": {
+    "EMAIL_SENT": "تم ارسال البريد الالكتروني",
+    "CONFIRM_EMAIL": "يرجى التحقق من صندوق البريد الإلكتروني الخاص بك للحصول على رابط استعادة كلمة المرور.",
+    "EMAIL_NOT_SENT": "لم تجد البريد الإلكتروني؟",
+    "RESEND": "إعادة الإرسال",
+    "OR": "أو",
+    "BACK_TO": "العودة إلى",
+    "LOGIN": " تسجيل الدخول"
+  },
+  "COMP_FieldSelect": {
+    "TELL_US": "أخبرنا عن مجالك",
+    "BETTER_SERVICE": "نريد أن نقدم لك خدمة بشكل أفضل...",
+    "IDENTIFY_FIELD": "أختر مجالك",
+    "CONFIRM": "تأكيد",
+    "FIELD_SELECT": "حدد مجالك ",
+    "INDIVIDUALS": "أفراد/ شركات"
+  },
+  "COMP_HomeCarousel": {
+    "SAB-PLATFORM": " ساب جيت منصتنا للتجارة الإلكترونية التي توفر طريقة ملائمة وفعالة للمقاولين ومطوري العقارات ومالكي المباني لشراء مواد العزل المائي وأنظمتهم",
+    "SHOP_PRODUCtS": "تسوق منتجاتنا",
+    "DISCOVER": "اكتشف الان",
+    "PROJECT-HELP": "نساعدك على تنفيذ مشروعك بأجود الخامات",
+    "CONTACT_US": "تواصل معنا"
+  },
+  "COMP_ShoppingCart": {
+    "CART_SUMMARY": "ملخص الطلب",
+    "SUB_TOTAL": "المجموع الفرعي",
+    "DELIVERY_CHARGE": "رسوم التوصيل",
+    "TAXES": "الضرائب",
+    "TOTAL": "الإجمالي",
+    "CHECKOUT_BTN": "متابعة الدفع",
+    "SHOPPING_CART": "عربة التسوق"
+  },
+  "COMP_CartItem": {
+    "NEW": "جديد",
+    "DELIVERY_TIME": "التسليم خلال يومين",
+    "SIZE": "المقاس:",
+    "DENSITY": "الكثافة:",
+    "THICKNESS": "السماكة:"
+  },
+  "COMP_Order_Recap": {
+    "DELIVERY_TIME": "يتم التوصيل يوم"
+  },
+  "COMP_Item_Recap": {
+    "QUANTITY": "الكمية"
+  },
+  "COMP_BreadCrumb": {
+    "BREAD_MAIN": "الرئيسية"
+  },
+  "COMP_Checkout": {
+    "EDIT": "تعديل",
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "DISCOUNT_COUPON": "كود الخصم",
+    "TOTAL": "المجموع",
+    "AGREE": "اوافق علي ",
+    "TERMS_CONDITIONS": " الشروط و الأحكام",
+    "CART_SUMMARY": "ملخص الطلب",
+    "SHIPPING_ADDRESSES": "عنوان الشحن",
+    "REVIEW_ORDER": "مراجعة الطلب",
+    "COMPLETE_PURCHASE": "اتمام الشراء",
+    "CURRENCY": "د.إ",
+    "APPLIED": "تم تطبيق",
+    "DISCOUNT": "الخصم",
+    "SUCCESSFULLY": "بنجاح",
+    "SAVED": "لقد وفرت ",
+    "REMOVE_COUPON": "ازالة القسيمة",
+    "Add_CODE": "اضافة كود +",
+    "APPLY": "تطبيق",
+    "CANCEL": "الغاء",
+    "BREAD_MAIN": "الرئيسية",
+    "BREAD_CHECKOUT": "عملية الدفع",
+    "BREAD_SHOPPING_CART": "عربة التسوق",
+    "PAYMENT_CASH": "دفع نقدا",
+    "ADD_ADDRESS_HEADER": "اضافة عنوان",
+    "ADD_ADDRESS_SUCCESSFUL": "تم اضافة العنوان بنجاح",
+    "ADDRESS_SELECTED": "تم اختيار العنوان",
+    "VIEW_ADDRESSES_LIST": "اختيار عنوان",
+    "EDIT_ADDRESS_HEADER": "تعديل العنوان"
+  },
+
+  "COMP_AddressForm": {
+    "HOME": "المنزل",
+    "WORK": "العمل",
+    "OTHER": "اخر",
+    "CANCEL": "الغاء"
+  },
+  "COMP_AddAddresses": {
+    "FIRST_NAME": "الاسم الأول",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "LAST_NAME": "الاسم الأخير",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "EMAIL_ADDRESS": "عنوان البريد الإلكتروني",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي.",
+    "PHONE_NUMBER": "رقم الهاتف",
+    "REQUIRED_PHONE_NUMBER": "برجاء ادخال رقم الهاتف",
+    "INVALID_PHONE_NUMBER": "رقم الهاتف غير صالح",
+    "CITY": "المدينة",
+    "REQUIRED_CITY": "يرجى اختيار مدينتك.",
+    "LINE1": "العنوان بالتفصيل",
+    "REQUIRED_ADDRESS": "يرجى إدخال اسم الشارع أو أي معالم.",
+    "BUILDING": "المبني",
+    "REQUIRED_BUILDING_NUMBER": "يرجى إدخال رقم المبنى الخاص بك",
+    "FLOOR": "الدور",
+    "REQUIRED_FLOOR_NUMBER": "يرجى إدخال رقم الطابق الخاص بك",
+    "FLAT": "الشقة",
+    "REQUIRED_FLAT_NUMBER": "يرجى إدخال رقم الشقة الخاص بك",
+    "SAVE_ADDRESSES": "حفظ العنوان",
+    "CANCEL": "الغاء",
+    "DEFAULT_SELECT": "اختار ...",
+    "DISTRICT": "حي",
+    "REQUIRED_DISTRICT": "يرجى اختيار حيك",
+    "HOME": "المنزل",
+    "WORK": "العمل",
+    "OTHER": "اخر",
+    "REQUIRED_ADDRESS_TYPE": "الرجاء اختيار نوع العنوان.",
+    "SET_DEFAULT": "تحديد كعنوان رئيسي"
+  },
+  "COMP_Invoice": {
+    "ORDER_COMPLETED": "تم الطلب بنجاح",
+    "ORDER_CONFIRMATION": "تم تأكيد الطلب بنجاح سيتم إرسال لك رسالة تأكيد بالبريد الإلكتروني أو رسالة نصية ورابطًا لتتبع طلبك",
+    "TOTAL_SUB": "المجموع الفرعي",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الإجمالي",
+    "ORDER_DETAILS": "تفاصيل الطلب",
+    "ORDER_SUMMARY": "ملخص الطلب",
+    "THANKS_MESSAGE": "شكرًا لتسوقكم من متجر ساب جيت، نتطلع للتعامُل معك مرة أخرى"
+  },
+  "COMP_ShippingDetails": {
+    "ORDER_NUMBER": "رقم الطلب",
+    "MOUNT": "المبلغ",
+    "ORDER_DATE": "تاريخ الطلب",
+    "DELIVERY_DATE": "تاريخ التوصيل"
+  },
+  "COMP_ConstructionGuide": {
+    "NEXT_LABEL": "التالي",
+    "PREV_LABEL": "السابق",
+    "SEARCH": "بحث",
+    "CHOOSE_FEILD": "اختر المجال"
+  },
+  "COMP_Figures": {
+    "PRODUCTS": "المنتجات",
+    "CONSULTING": "الخدمات الاستشارية",
+    "PACKAGES": "الباقات"
+  },
+  "COMP_ToolBar": {
+    "NOTIFICATION": "التنبيهات",
+    "SHOPPING_CART": "عربة التسوق",
+    "FAVORITES": "المفضلة",
+    "MY_ACCOUNT": "حسابي",
+    "SEARCH": "بحث...",
+    "LOGIN": " تسجيل الدخول",
+    "CREATE_aCCOUNT": "انشاء حساب"
+  },
+  "COMP_Contact_Us": {
+    "BRANCHES_HEADER": "فروعنا",
+    "BRANCHES_HEADER_MESSAGE": "تعرف على الأماكن التي نحن فيها واعرض التفاصيل على الخريطة لمزيد من المعلومات حول مواقع المكاتب والفروع",
+    "MODAL_THANKS": "تم الإرسال شكرا لك على تواصلك معنا !",
+    "MODAL_MESSAGE": "نحن نقدّر اتصالكم بنا. نحاول الردّ في أقرب وقت ممكن، حيث سيوافيكم أحد ممثلينا بالرد قريباً.",
+    "MODAL_BUTTON": "متابعة التسوق",
+    "Form": {
+      "HEADER_THANKS": "شكرا لك على اهتمامك بساب جيت",
+      "HEADER_MESSAGE": "ونحن نتطلع إلى أن ، ونحن هنا لخدمتك! لا تتردد في التواصل معنا",
+      "EMAIL": "البريد الالكتروني",
+      "ADDRESS": "العنوان",
+      "SUBJECT": "الموضوع",
+      "MESSAGE": "الرسالة",
+      "MESSAGE_ERROR": "برجاء ادخال الرسالة",
+      "EMAIL_ADDRESS": "البريد الالكتروني",
+      "PHONE_NUMBER": "رقم الهاتف",
+      "INVALID_EMAIL_ERROR": "يرجى إدخال عنوان بريد إلكتروني صالح",
+      "EMAIL_ERROR": "يرجى إدخال عنوان بريد إلكتروني ",
+      "FIRST_NAME": "الاسم الاول",
+      "LAST_NAME": "اسم العائلة",
+      "FIRST_NAME_ERROR": "برجاء ادخال الاسم الاول",
+      "SUBMIT_BUTTON": "ارسل"
+    },
+    "BranchCard": {
+      "MAP_LINK": "الذهاب إلى الخريطة"
+    },
+    "ContactCard": {
+      "CONTACT_US": "تواصل معنا",
+      "CONTACT_EMAIL": "البريد الإلكتروني  : ",
+      "CONTACT_PHONE": "رقم الهاتف : ",
+      "CONTACT_SOCIAL": "تابعنا علي : ",
+      "CONTACT_CONTACT_US": "تواصل معنا : "
+    }
+  },
+  "COMP_ProductDetails": {
+    "Details": {
+      "SIZE": "المقاس:",
+      "DENSITY": "الكثافة:",
+      "THICKNESS": "السماكة:",
+      "CONTACT_US": "تواصل معنا",
+      "SHARE": "مشاركة",
+      "ADD_TO_CART_BTN": "إضافة إلي عربة التسوق ",
+      "SAMPLE_REQUEST": "طلب عينة",
+      "NEW": "جديد",
+      "EVALUATE": "تقييم",
+      "REQUEST_PRICE_VIEW": "طلب عرض اسعار",
+      "DELIVERED_DAY": "يتم التوصيل خلال",
+      "COMPARISON": "مقارنة"
+    },
+    "Info": {
+      "SPECIFICATIONS": "المواصفات",
+      "PRODUCT_DATE": "تاريخ الانتاج",
+      "WEIGHT": "الوزن",
+      "THIKNESS": "السمك",
+      "DETAILS": "التفاصيل",
+      "BENFITS": "الفوائد",
+      "COMMON_QUESTIONS": "الاسئلة الشائعة",
+      "EVALUATIONS": "التقييمات",
+      "ADD_TO_CART_BIN": "إضافة إلي عربة التسوق "
+    },
+    "RelatedProducts": {
+      "REQUEST_PRICE_VIEW": "طلب عرض اسعار",
+      "ADD_TO_CART": "إضافة إلي عربة التسوق ",
+      "SEE_ALL": "مشاهدة الكل ",
+      "SIMILAR_PRODUCTS": "منتجات ذات صله"
+    }
+  },
+  "COMP_ProductsList": {
+    "FOUND_ITEMS": "تم العثور على {count} منتج",
+    "LIST_COUNT_TITLE": "عرض",
+    "ADD_TO_CART_BTN": "اضافة الي عربة التسوق",
+    "12_In_PAGE": "12 في الصفحة",
+    "24_In_PAGE": "24 في الصفحة",
+    "36_In_PAGE": "36 في الصفحة",
+    "BREAD_MAIN": "الرئيسية",
+    "BREAD_BAKED": "المخبوزات",
+    "NEXT_LABEL": "التالي",
+    "PREV_LABEL": "السابق",
+    "REQUEST_QOUTE": "طلب عرض الاسعار",
+    "ADD_TO_CART": "إضافة إلي عربة التسوق "
+  },
+  "COMP_SidebarFilter": {
+    "ALL": "الكل",
+    "FEATURED": "مميز",
+    "ALPHABET_AZ": "أبجديًا، من الألف إلى الياء",
+    "ALPHABET_ZA": "أبجديًا، من الياء إلى الألف",
+    "PRICE_LH": "السعر، من الأقل إلى الأعلى",
+    "PRICE_HL": "السعر، من الأعلى إلى الأقل",
+    "DATE_NO": "التاريخ، من الجديد إلى القديم",
+    "DATE_ON": "التاريخ، من القديم إلى الجديد",
+    "SORT_BY": "ترتيب حسب",
+    "CLASSIFICATION_BY": "تصنيف حسب",
+    "PRODUCTS": "المنتجات",
+    "ALLERGENS": "مسببات الحساسية",
+    "PRICE": "السعر",
+    "DELETE": "مسح",
+    "SELECT": "اختر"
+  },
+  "Comp_Shop": {
+    "FIND_OUT_MORE": "اكتشف المزيد",
+    "SAB_GATE": "بوابات ساب",
+    "SAB_ELECTRONIC_STORE": "متجر ساب الالكتروني",
+    "ASK_EXPERTS": "اسأل الخبراء",
+    "SAB_INFORMATION_CENTER": "مركز ساب للمعلومات"
+  },
+  "COMP_Price_Range": {
+    "FROM": "من",
+    "TO": "الي"
+  },
+  "COMP_MobileFilter": {
+    "FILTRATION": "تنقية",
+    "FILTER": "تصنيف حسب",
+    "SORT": "ترتيب حسب",
+    "DELETE_ALL": "مسح الكل",
+    "CATEGORIES": "الفئات",
+    "DELETE": "مسح",
+    "FEATURED": "مميز",
+    "ALPHABET_AZ": "أبجديًا، من الألف إلى الياء",
+    "ALPHABET_ZA": "أبجديًا، من الياء إلى الألف",
+    "PRICE_LH": "السعر، من الأقل إلى الأعلى",
+    "PRICE_HL": "السعر، من الأعلى إلى الأقل",
+    "DATE_NO": "التاريخ، من الجديد إلى القديم",
+    "DATE_ON": "التاريخ، من القديم إلى الجديد",
+    "PRICE": "السعر"
+  },
+  "COMP_Material": {
+    "PRICE_LIST": "طلب عرض أسعار",
+    "ADD_TO_CART": "إضافة إلي عربة التسوق ",
+    "HEAT_ISOLATE": "مواد عازلة للحرارة ",
+    "SEE_ALL": "مشاهدة الكل "
+  },
+  "COMP_ChooseOrder": {
+    "CHOOSE_ORDER": "قم بإختيار الطلبية الخاصة بك",
+    "CHOOSE_SERVICE": "اختر نوع الخدمة",
+    "IDENTIFY_SPACE": "حدد المساحة المطلوبة",
+    "CHOOSE_PRODUCTS": "اختر المنتجات المناسبة",
+    "PRICE_LIST": "عرض أسعار"
+  },
+  "COMP_Waterproof": {
+    "WATERPROOFING": "خدمات أنظمة العزل المائي",
+    "SEE_ALL": "مشاهدة الكل ",
+    "THIN_FILM": "أنظمة العزل المائي بالأغشية الرقيقة",
+    "LIQUID_ISOLATION": "أنظمة العزل المائي بالأغشية السائلة",
+    "BITUMEN": "أنظمة العزل المائي بالبيتومين",
+    "CEMENT_ISOLATION": "أنظمة العزل المائي بالبيتومين"
+  },
+  "EMPTY_COMPARISON": {
+    "NOT_FOUND": "لا توجد مقارنة بين المنتجات",
+    "TO_SHOP": "الذهاب إلي المتجر"
+  },
+  "COMP_Clients": {
+    "OUR_CLIENTS": "عملاؤنا"
+  },
+  "COMP_StepForm": {
+    "BACK": "رجوع",
+    "SKIP": "تخطي",
+    "NEXT": "التالي",
+    "APPLICATIONS_SERVICES": "التطبيقات والخدمات",
+    "REQUEST_RECEIVED": "تم تلقي طلبك بنجاح",
+    "CONTACT_AS_SOON_AS": "سيتم التواصل معك في اقرب وقت "
+  },
+  "COMP_PROFILE": {
+    "ACCOUNT": "حسابي",
+    "FAVORITE": "المفضلة",
+    "ADDRESS": "العناوين",
+    "ORDERS": "الطلبات",
+    "CARDS": "بطاقاتي",
+    "BREAD_MAIN": "الرئيسية",
+    "BREAD_PROFILE": "حسابي",
+    "QUTATION_REQUEST": "طلب عرض سعر"
+  },
+  "COMP_WishList": {
+    "12_In_PAGE": "12 في الصفحة",
+    "24_In_PAGE": "24 في الصفحة",
+    "36_In_PAGE": "36 في الصفحة",
+    "LIST_COUNT_TITLE": "عرض",
+    "ADD_TO_CART_BTN": "اضافة الي عربة التسوق",
+    "NEXT_LABEL": "التالي",
+    "PREV_LABEL": "السابق",
+    "REQUEST_PRICE_VIEW": "طلب عرض اسعار",
+    "ADD_TO_CART": "إضافة إلي عربة التسوق "
+  },
+  "Comp_CompletedOrderCard": {
+    "ORDER_NUMBER": "رقم الطلب",
+    "DELIVERED": "تم التوصيل",
+    "PAYMENT_METHOD": "طريقة الدفع",
+    "PRICE": "السعر",
+    "EVALUATE": "تقييم",
+    "ORDER_RETURN": "ارجاع المنتج"
+  },
+  "Comp_CurrentOrderCard": {
+    "ORDER_NUMBER": "رقم الطلب",
+    "DELIVERED": "تم التوصيل",
+    "PAYMENT_METHOD": "طريقة الدفع",
+    "PRICE": "السعر",
+    "EVALUATE": "تقييم",
+    "ORDER_RETURN": "ارجاع المنتج",
+    "DETAILS": "التفاصيل"
+  },
+
+  "Comp_CanceledOrderCard": {
+    "ORDER_NUMBER": "رقم الطلب",
+    "CANCELED": "تم الالغاء",
+    "PAYMENT_METHOD": "طريقة الدفع",
+    "PRICE": "السعر",
+    "EVALUATE": "تقييم",
+    "ORDER_RETURN": "ارجاع المنتج"
+  },
+  "COMP_P_AddAddresses": {
+    "FIRST_NAME": "الاسم الأول",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "LAST_NAME": "الاسم الأخير",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "EMAIL_ADDRESS": "عنوان البريد الإلكتروني",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي.",
+    "PHONE_NUMBER": "رقم الهاتف",
+    "REQUIRED_PHONE_NUMBER": "برجاء ادخال رقم الهاتف",
+    "INVALID_PHONE_NUMBER": "رقم الهاتف غير صالح",
+    "CITY": "المدينة",
+    "REQUIRED_CITY": "يرجى اختيار مدينتك.",
+    "LINE1": "العنوان بالتفصيل",
+    "REQUIRED_ADDRESS": "يرجى إدخال اسم الشارع أو أي معالم.",
+    "BUILDING": "المبني",
+    "REQUIRED_BUILDING_NUMBER": "يرجى إدخال رقم المبنى الخاص بك",
+    "FLOOR": "الدور",
+    "REQUIRED_FLOOR_NUMBER": "يرجى إدخال رقم الطابق الخاص بك",
+    "FLAT": "الشقة",
+    "REQUIRED_FLAT_NUMBER": "يرجى إدخال رقم الشقة الخاص بك",
+    "SAVE_ADDRESSES": "حفظ العنوان",
+    "CANCEL": "الغاء",
+    "DEFAULT_SELECT": "اختار ...",
+    "DISTRICT": "حي",
+    "REQUIRED_DISTRICT": "يرجى اختيار حيك",
+    "HOME": "المنزل",
+    "WORK": "العمل",
+    "OTHER": "اخر",
+    "REQUIRED_ADDRESS_TYPE": "الرجاء اختيار نوع العنوان."
+  },
+  "COMP_MyAccount": {
+    "PERSONAL_INFORMATION": "معلوماتك الشخصية",
+    "FIRST_NAME": "الاسم الأول",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "LAST_NAME": "الاسم الأخير",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "EMAIL_ADDRESS": "عنوان البريد الإلكتروني",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي.",
+    "PHONE_NUMBER": "رقم الهاتف",
+    "REQUIRED_PHONE_NUMBER": "برجاء ادخال رقم الهاتف",
+    "INVALID_PHONE_NUMBER": "رقم الهاتف غير صالح",
+    "COMPANY_NAME": "اسم الشركة",
+    "LANGUAGE": "اللغة",
+    "BIRTHDATE": "تاريخ الميلاد",
+    "SAVE": "حفظ",
+    "INVALID_BIRTH_DATE": "تاريخ الميلاد غير صالح. تأكد من أن اليوم والشهر والسنة داخلة في نطاقات صحيحة.",
+    "CANCEL": "الغاء",
+    "CHANGE_PASSWORD": "تغيير كلمة المرور",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "SUCCESS_MSG": "تم تحديث معلوماتك الشخصية بنجاح."
+  },
+  "COMP_Profile_Address": {
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "SUCCESS_UPDATE_MSG": "تم تحديث العنوان بنجاح.",
+    "SUCCESS_ADD_MSG": "تم إضافة العنوان بنجاح.",
+    "EMPTY_MSG": "لا توجد عناوين الآن.",
+    "BACK_TO_HOME": "العودة الى الرئيسية"
+  },
+  "Comp_CurrentOrder": {
+    "MY_ORDERS": "طلباتي",
+    "PRODUCT_SEARCH": "ابحث عن اسم المنتج أو الفئة",
+    "CURRENT_ORDERS": "الطلبات الحالية",
+    "ORDERS_COMPLTED": "اكتمل الطلب",
+    "RETURNS": "المرتجعات",
+    "CANCELED_ORDERS": "الطلبات الملغاة"
+  },
+
+  "Comp_Item_Recap": {
+    "QUANTITY": "الكمية"
+  },
+
+  "Comp_Order_Return": {
+    "ORDER_RETURN": "ارجاع المنتج",
+    "SHIPPING_DETAILS": "تفاصيل الشحن",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الاجمالي ",
+    "BILL": "الفاتورة",
+    "CASH": "نقدي",
+    "CART_SUMMARY": "ملخص الطلب",
+    "RETURN_CONFIRMATION": "تأكيد الاسترجاع",
+    "REQUIRED_RETURN_REASON": "برجاء ادخال سبب الارجاع؟",
+    "CONFIRM_RETURN": " تأكيد الاسترجاع  ",
+    "RETURN_REASON": "اذكر سبب الارجاع",
+
+    "Comp_Order_Return_Card": {
+      "QUANTITY": "الكمية"
+    }
+  },
+  "Comp_Recovery_Details": {
+    "RECOVEY_DETAILS": "تفاصيل الاسترداد",
+    "SELECT_DAY": "اختار اليوم",
+    "SUNDAY": "الاحد",
+    "MONDAY": "الاثنين",
+    "TUESDAY": "الثلاثاء",
+    "EVENING": "مساءا",
+    "MORNING": "صباحا",
+    "SELECT_TIMING": "اختار التوقيت",
+    "SHIPPING_DETAILS": "تفاصيل الشحن",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الاجمالي ",
+    "BILL": "الفاتورة",
+    "CART_SUMMARY": "ملخص الطلب",
+    "CASH": "نقدي",
+    "RECOVERY_CONFIRMATION": "تأكيد الاسترجاع"
+  },
+  "Comp_Change_Password": {
+    "CHANGE_PASSWORD": "تغيير كلمة المرور",
+    "CURRENT_PASSWORD": "كلمة المرور الحالية",
+    "REQUIRED_CURRENT_PASSWORD": "برجاء ادخال كلمة المرور الحالية",
+    "CURRENT_PASSWORD_INVALID": "عذرًا، ولكن كلمة المرور الحالية غير صالحة",
+    "NEW_PASSWORD": "كلمة المرور الجديدة",
+    "REQUIRED_NEW_PASSWORD": "برجاء ادخال كلمة المرور الجديدة",
+    "NEW_PASSWORD_REGX_MATCH": "يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير وتكون على الأقل 8 أحرف وحرف خاص واحد",
+    "SAME_PASSWORD_ERR": "كلمة المرور الجديدة هي نفس كلمة المرور القديمة. يرجى اختيار كلمة مرور أخرى.",
+    "REPEAT_NEW_PASSWORD": "أعد ادخال كلمة المرور الجديدة ",
+    "REQUIRED_REPEAT_NEW_PASSWORD": "برجاء اعادة ادخال كلمة المرور الجديدة",
+    "REPEAT_NEW_PASSWORD_MATCH": "كلمة المرور غير متطابقة",
+    "SAVE": "حفظ",
+    "CANCEL": "الغاء",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "SUCCESS_MSG": "تم تحديث كلمة المرور بنجاح.",
+    "SUCCESS_MSG_COUNTER": "جاري تسجيل الخروج في خلال {countdown} ثواني..."
+  },
+  "Comp_Order_Recap": {
+    "DELIVERY_TIME": "يتم التوصيل خلال يوم"
+  },
+  "COMP_InfoBar": {
+    "ADDRESS": "برج مكاتب جلفار 2508 - طريق الحصن - دفان النخيل - رأس الخيمة - الإمارات العربية المتحدة"
+  },
+  "COMP_EmptyWishlist": {
+    "WISHLIST-IS-EMPTY": "لا يوجد منتجات فى المفضلة",
+    "EMPTY_TILL_NOW": "ليس لديك أي شيء في قائمتك حتى الآن.",
+    "SHOP_NOW": "تسوق الآن"
+  },
+  "COMP_Custom404": {
+    "NOT_FOUND": "لا يمكن العثور على الصفحة التي تبحث عنها.",
+    "BACK_TO_HOME": "العودة الى الصفحة الرئيسية"
+  },
+  "COMP_Qutation": {
+    "QUTATION_REQUEST": "طلب عرض سعر",
+    "PRODUCT_SEARCH": "ابحث عن اسم المنتج",
+    "NEXT": "التالي"
+  },
+  "COMP_QutationCard": {
+    "QUTATION_NUMBER": "عرض سعر رقم",
+    "NAME": "الاسم",
+    "EMAIL": "البريد الالكتروني",
+    "PHONE": "رقم الهاتف"
+  },
+  "Comp_View_Returns": {
+    "VIEW_RETURNS": "عرض المرتجعات",
+    "SHIPPMENT_DELIVERY_ADDRESS": " عنوان تسليم الشحنة",
+    "SHIPPMENT_DELIVERY_TIME": "توقيت تسليم الشحنة",
+    "MONDAY": "الاثنين",
+    "EVENING": "مساءا",
+    "BILL": "الفاتورة",
+    "CASH": "نقدي",
+    "CART_SUMMARY": "ملخص الطلب",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الاجمالي ",
+    "RETURN_CONFIRMATION": "تأكيد الاسترجاع"
+  },
+  "Comp_View_Returns_Card": {
+    "QUANTITY": "الكمية",
+    "RETURN_REASON": " سبب الارجاع"
+  },
+
+  "Comp_Order_Return_invoice": {
+    "RETURN_SUCCESSFULLY": "تم طلب الإرجاع بنجاح",
+    "RETURN_MESSAGE": "تم طلب الإرجاع بنجاح سيتم إرسال لك رسالة تأكيد بالبريد الإلكتروني أو رسالة نصية ورابطًا لتتبع طلبك",
+    "ORDER_NUMBER": "رقم الطلب",
+    "CANCEL_ORDER": "الغاء الطلب",
+    "MONDAY": "الاثنين",
+    "EVENING": "مساءا",
+    "SHIPPMENT_DELIVERY_ADDRESS": " عنوان تسليم الشحنة",
+    "SHIPPMENT_DELIVERY_TIME": "توقيت تسليم الشحنة",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الاجمالي ",
+    "BILL": "الفاتورة",
+    "CASH": "نقدي",
+    "CART_SUMMARY": "ملخص الطلب"
+  },
+  "Comp_ReturnedCard": {
+    "ORDER_NUMBER": "رقم الطلب",
+    "DETAILS": "التفاصيل",
+    "PAYMENT_METHOD": "طريقة الدفع"
+  },
+  "Comp_Rating_Card": {
+    "PRODUCT_EVALUATE": "تقييم المنتج",
+    "DELIVERY_EVALUATE": "تقييم التوصيل"
+  },
+  "COMP_Product_Evaluation": {
+    "WHRITE_PRODUCT_EVALUATION": "كتابة تقييم المنتج",
+    "EXEPERIENCE_INQUIRY": "كيف كانت تجربتك مع المنتج",
+    "SEND": "ارسال",
+    "REQUIRED_EVALUATION": "برجاء ادخال التقييم"
+  },
+  "COMP_Delivery_Evaluation": {
+    "WHRITE_DELIVERY_EVALUATION": "كتابة تقييم التوصيل",
+    "EXEPERIENCE_INQUIRY": "كيف كانت تجربتك مع التوصيل",
+    "SEND": "ارسال",
+    "REQUIRED_EVALUATION": "برجاء ادخال التقييم"
+  },
+  "Comp_Rating_Feedback": {
+    "EVALUATION_SEND_SUCCESSFULLY": "تم إرسال التقييم بنجاح",
+    "THANKS_MESSAGE": "شكرا لك على التقييم . لقد تم إرسال التقييم بنجاح",
+    "CONTINUE_SHOPPING": "متابعة التسوق"
+  },
+  "COMP_Return_Details": {
+    "PREPARING": "جاري التجهيز",
+    "ON_ROAD": "في الطريق",
+    "DELIVERED": "تم التوصيل",
+    "SHIPPMENT_DELIVERY_ADDRESS": " عنوان تسليم الشحنة",
+    "SHIPPMENT_DELIVERY_TIME": "توقيت تسليم الشحنة",
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الاجمالي ",
+    "BILL": "الفاتورة",
+    "CASH": "نقدي",
+    "CART_SUMMARY": "ملخص الطلب",
+    "SHIPPING_DETAILS": "تفاصيل الشحن",
+    "VIEW_RETURNS": "عرض المرتجعات",
+    "CANCEL_ORDER": "الغاء الطلب",
+    "RETURNING": "جاري الارجاع",
+    "ORDER_NUMBER": "رقم الطلب",
+    "RETURNED_SUCCESSFULLY": "تم الاسترجاع بنجاح",
+    "RETURNED": "تم الارجاع",
+    "RECOVERED": "استرداد الاموال"
+  },
+  "COMP_FixedButtons": {
+    "COMPARISONS": "المقارنات",
+    "CONTACT_US": "تواصل معنا"
+  },
+  "COMP_Flex": {
+    "INNVATIVE_SOLUTIONS": "حلول مبتكرة لانظمة العزل المائي",
+    "SEE_MORE": "شاهد المزيد"
+  },
+  "COMP_BlogCard": {
+    "ARTICLE_FROM_SITE": "مقالة من موقع",
+    "READ_MORE": "قراءة المزيد"
+  },
+  "COMP_BlogDetails": {
+    "AUTHOR_WORDS": "من كلمات المؤلف",
+    "ARTICLE_FROM_SITE": "مقالة من موقع",
+    "SORT_BY": "ترتيب حسب",
+    "LAST_UPDATE": "اخر تحديث",
+    "PREVIOUS_ARTICLE": "المقالة السابقة ",
+    "WATER_INSULATION_SYSTEM": "انظمة العزل المائي",
+    "SUBSCRIBE_NEWSLETTER": "اشترك في النشرة الاخبارية ",
+    "BY_EMAIL": "عبر البريد الإلكتروني للحصول على أحدث المنشورات التي يتم تسليمها مباشرة إلى بريدك الإلكتروني.    ",
+    "SUBSCRIBE_NOW": "اشترك الان",
+    "EMAIL": "البريد الالكتروني",
+    "RELATED_ARTICLES": "مقالات ذات صلة "
+  },
+  "COMP_RelatedArticle": {
+    "ARTICLE_FROM_SITE": "مقالة من موقع"
+  },
+  "COMP_BetterService": {
+    "INDIVIDUALS": "افراد",
+    "COMPANIES": "شركات"
+  },
+  "COMP_Budget": {
+    "WHAT_IS_YOUR_BUDGET": "ماهي ميزانيتك؟",
+    "MIN_PRICES": "الجد الادني للسعر",
+    "UNLIMITED": "لامحدود",
+    "MAX_PRICE": "الحد الاقصي للسعر"
+  },
+  "COMP_Property": {
+    "CHOOSE_BUILDING_TYPE": "     اختر نوع العقار",
+    "APARTMENT": "شقة ",
+    "VILLA": "فيلا",
+    "HOUSING_GATHEERING": "تجمع سكني",
+    "ECOMMERCE_BUILDING": "عقار تجارية",
+    "INSTITUION": "مؤسسة",
+    "RENEW_REBUILDING": "التجديد واعادة البناء",
+    "MORE_DETAILS": "مزيد من َالتفاصيل... نريد أن نقدم لك خدمة بشكل أفضل...",
+    "MORE_DETAILS_PLACEHOLDER": "مزيد من َالتفاصيل...",
+    "OTHER": "اخري"
+  },
+  "COMP_ServicesType": {
+    "SERVICES_TYPE": "نوع الخدمة التي تريدها ",
+    "IMPROVE_BUILDING_PERFORMANCE": "تحسين اداء المباني",
+    "WATERBROOF_SERVICES": "خدمات العزل المائي",
+    "SERVICES_CONSULTATIONS": " الخدمات والاستشارات",
+    "OTHER": "اخري"
+  },
+  "COMP_WaterProof": {
+    "WATER_PROOF_SERVICES": "خدمات العزل المائي",
+    "THIN_WATERPROOF": "        أنظمة العزل المائي بالأغشية الرقيقة",
+    "LIQUID_WATERPROOFING": "        أنظمة العزل المائي بالأغشية السائلة    ",
+    "CEMENT_WATERPROOFING": "        أنظمة العزل المائي بالإسمنت    ",
+    "BITUMEN_WATERPROOFING": "        أنظمة العزل المائي بالبيتومين",
+    "POLYURETHANE_WATERPROOFING": "        أنظمة العزل المائي بالأغشية السائلة بولي يوريثان    ",
+    "RENEW_REBUILDING": "التجديد واعادة البناء",
+    "POLYMER_MODIFIED_SYSTEM": "        أنظمة إسمنتية معدَّلة بالبوليمرات    ",
+    "POLYMER_MODIFIED_SYSTEMS": " أنظمة البوليمر المعدلة    "
+  },
+  "COMP_PersonalInfo": {
+    "PERSONAL_DATA": "البيانات الشخصية لنتواصل معك",
+    "NAME": "الاسم",
+    "PHONE_NUMBER": "رقم الهاتف"
+  },
+  "COMP_Package": {
+    "INDIVIDUALS": "افراد",
+    "COMPANIES": "شركات"
+  },
+  "Comp_OrderDetails": {
+    "SUBTOTAL": "المجموع الفرعي ",
+    "DELIVERY_FEES": "رسوم التوصيل",
+    "TOTAL": "الإجمالي",
+    "DELIVERED_SUCCESS": "تم التوصيل",
+    "ORDER_NUMBER": "رقم الطلب",
+    "CANCEL_ORDER": "الغاء الطلب",
+    "ORDER_RETURN": "ارجاع المنتج",
+    "PREPARING": "جاري التجهيز",
+    "ON_THE_ROAD": "في الطريق",
+    "DELIVERED": "تم التوصيل",
+    "OUT_FOR_DELIVERY": "خرج للتوصيل",
+    "CANCEL_MSG": "تم الغاء الطلب",
+    "SHIPPING_DETAILS": "تفاصيل الشحن",
+    "BILL": "الفاتورة",
+    "CASH": "نقدي",
+    "CART_SUMMARY": "ملخص الطلب",
+    "ORDER_DETAILS": "تفاصيل الطلب",
+    "CANCEL_INQUIRY": " طلب الغاء  ",
+    "YES": "نعم ",
+    "NO": "لا"
+  },
+  "Comp_Progress_Bar": {
+    "PREPARING": "جاري التجهيز",
+    "ON_THE_ROAD": "في الطريق",
+    "SHIPPED": "تم الشحن",
+    "OUT_FOR_DELIVERY": "خرج للتوصيل",
+    "DELIVERED": "تم التوصيل"
+  },
+  "COMP_DetailsSelect": {
+    "MORE_DETAILS": "المزيد من التفاصيل",
+    "INDIVIDUALS_COMPANIES": "أفراد/ شركات",
+    "INDIVIDUALS": "افراد",
+    "CHOOSE_BUILDING_TYPE": "اختر نوع العقار",
+    "APARTMENT": "شقة ",
+    "VILLA": "فيلا",
+    "CHOOSE_SERVICES": "اختر الخدمة",
+    "COMPANIES": "شركات",
+    "NEAREST_SPACE": "اختر اقرب مساحة للموقع",
+    "ADDITIONAL_INFORMATION": "اي معلومات اضافية"
+  },
+  "COMP_QuatationsSummary": {
+    "ORDER_SUMMARY": "ملخص طلب عرض لاسعار",
+    "PRODUCT_CODE": "كود المنتج",
+    "BUILDING_TYPE": "نوع العقار",
+    "SERVICE_TYPE": "نوع الخدمة",
+    "APARTMENT": "شقة ",
+    "VILLA": "فيلا",
+    "WATER_ISOLATION": "عزل مائي"
+  },
+  "COMP_Auth_Header": {
+    "SIGNUP": " إنشاء حساب جديد",
+    "LOGIN": " تسجيل الدخول"
+  },
+  "COMP_ResetModal": {
+    "RESET_DONE": "  تم اعادة تعيين كلمة المرور بنجاح",
+    "RESET_DONE_AGAIN": "لقد تم إعادة تعيين كلمة المرور الخاصة بك بنجاح. الآن يمكنك تسجيل الدخول بكلمة المرور الجديدة.",
+    "BACK": "العودة إلى ",
+    "LOGIN": " تسجيل الدخول"
+  },
+  "COMP_RESERVATION": {
+    "PERSONAL_DATA": "البيانات الشخصية",
+    "FIRST_NAME": "الاسم الأول",
+    "SECOND_NAME": "الاسم الاخير",
+    "PHONE_NUMBER": "رقم الهاتف",
+    "EMAIL": "البريد الالكتروني",
+    "REMEMBER_MSG": "            أرسل لي تذكيرات بشأن حجزي عبر رسالة نصية    ",
+    "TELL_US_SIZE_PLACE": "اخبرنا عن حجم مكانك",
+    "INDIVIDUALS": "أفراد",
+    "COMPANIES": "شركات",
+    "BUILDING_SPECIFICATIONS": "مواصفات البناء",
+    "BUILDING_SIZE": "مساحة الميني",
+    "WATER_PROOF_REQUIREMENTS": "متطلبات العزل المائي",
+    "WATERPROOF_QEQUIREMENTS_PLACEHOLDERS": "        اذكر تفاصيل متطلبات العزل المائي من حيث مناطق محددة من المبنى تتطلب العزل المائي (على سبيل المثال ، الطابق السفلي والسقف والأساس والجدران) خطورة أو مدى القضايا المتعلقة بالمياه أنظمة العزل المائي الحالية (إن وجدت)",
+    "CONCERNS_PLACEHOLDER": "أي مجالات أو مخاوف محددة يجب التركيز عليها أثناء التفتيش",
+    "VISIT_COUNT": "عدد الزيارات",
+    "BUILDING_AGE": "عمر المبني",
+    "WEEKLY": "اسبوعيا",
+    "MONTHLY": "شهريا",
+    "ANNUALLY": "سنويا",
+    "SUITABLE_TIME": "اخبرنا عن الموعد المناسب",
+    "ADDITIONAL_DATA": "معلومات اضافية",
+    "RELEVANT_INFO_PLACEHOLDER": "        أي معلومات ذات صلة حول محاولات العزل المائي السابقة أو الإصلاحات معلومات حول المباني أو الهياكل المجاورة التي قد تؤثر على اعتبارات العزل المائي,",
+    "BUDGET": "الميزانية والجدول المالي",
+    "EXPECTED_BUDGET": "الميزانية المتوقعة ",
+    "TIMETABLE": "الجدول الزمني",
+    "WATERPROOFING_ATTEMPT": "        'أي معلومات ذات صلة حول محاولات العزل المائي السابقة أو الإصلاحات معلومات حول المباني أو الهياكل المجاورة التي قد تؤثر على اعتبارات العزل المائي',    ",
+    "ATTATACHMENTS": "المرفقات",
+    "EVALUATE_WATERPROFFING": "        'يمكنك إرفاق الصور أو المخططات أو أي مستندات أخرى ذات صلة يمكن أن تساعد في تقييم احتياجات العزل المائي.',    ",
+    "TERMS_CONDITIONS": " الشروط و الأحكام",
+    "TERMS_CONDITION_APPROVAL": "            الموافقة على شروط وأحكام عملية القياس والتفتيش.    ",
+    "SEND": "ارسال",
+    "SKIP": "تخطي",
+    "SELECT_SERVICES_TYPE": "اختر نوع الخدمة"
+  },
+  "COMP_News": {
+    "ARTICLE_FROM_SITE": "مقالة من موقع",
+    "SORT_BY": "ترتيب حسب",
+    "LAST_UPDATE": "اخر تحديث",
+    "PREVIOUS_ARTICLE": "المقالة السابقة "
+  },
+  "COMP_SOCIAL_LOGIN": {
+    "OR": "أو",
+    "FACEBOOK_LOGIN": "تسجيل دخول بفيس بوك",
+    "GOOGLE_LOGIN": "تسجيل دخول بجوجل"
+  },
+  "COMP_Address_Template": {
+    "WORK": "العمل",
+    "HOME": "المنزل",
+    "OTHER": "اخري",
+    "EDIT": "تعديل",
+    "DELETE": "ازالة"
+  },
+  "COMP_Remove_Address_Modal": {
+    "REMOVE_ADDRESS": "حذف العنوان",
+    "DO_REMOVE_ADDRESS": "هل أنت متأكد أنك تريد حذف العنوان؟",
+    "CONFIRM_REMOVE": "حذف",
+    "CANCEL": "الغاء"
+  }
+}

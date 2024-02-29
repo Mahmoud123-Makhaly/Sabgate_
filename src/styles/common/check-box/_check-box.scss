@@ -1,0 +1,33 @@
+.check-box {
+
+    .box-radio {
+        &:checked+.box-label {
+            background-color: $orange;
+            color: $white;
+
+            .active-icon {
+                display: block;
+            }
+
+            .icon {
+                display: none;
+            }
+
+            .check-text {
+                color: $white;
+            }
+        }
+    }
+
+    .box-label {
+        cursor: pointer;
+
+        .active-icon {
+            display: none;
+        }
+
+        .icon {
+            display: block;
+        }
+    }
+}

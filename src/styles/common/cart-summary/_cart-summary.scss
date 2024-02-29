@@ -1,0 +1,21 @@
+[data-layout-dir="rtl"] {
+  .checkout-btn {
+    &::after {
+      margin-right: 8px;
+      content: "\f053";
+      font-family: "FontAwesome";
+      font-size: 14px;
+    }
+  }
+}
+
+[data-layout-dir="ltr"] {
+  .checkout-btn {
+    &::after {
+      margin-left: 8px;
+      content: "\f054";
+      font-family: "FontAwesome";
+      font-size: 14px;
+    }
+  }
+}

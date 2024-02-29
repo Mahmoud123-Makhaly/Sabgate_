@@ -1,0 +1,149 @@
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: $primary;
+    color: $white;
+    border-radius: 12px;
+    width: 3.5rem;
+    height: 3.5rem;
+    z-index: 1000;
+    padding: 2rem 2rem;
+
+    &:hover {
+        background-color: $heading;
+        border-color: $heading;
+        color: $white !important;
+    }
+
+}
+
+.swiper-pagination-bullet {
+    width: 12px !important;
+    height: 12px !important;
+    margin: 0 10px !important;
+}
+
+.swiper-button-next {
+    margin-inline-end: 2rem;
+
+    &::after {
+        content: "\f061" !important;
+        font-family: 'FontAwesome' !important;
+        color: $white !important;
+        font-size: 30px;
+        font-weight: 200;
+    }
+}
+
+.swiper-button-prev {
+    margin-inline-start: 2rem;
+
+    &::after {
+        content: "\f060" !important;
+        font-family: 'FontAwesome' !important;
+        color: $white !important;
+        font-size: 30px;
+        font-weight: 200;
+    }
+}
+
+.swiper-pagination-bullet-active {
+    background: $primary !important;
+}
+
+.thumb-swiper {
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+
+    .swiper-wrapper {
+        align-items: center;
+    }
+
+    .main-swiper {
+        height: 80%;
+        width: 100%;
+    }
+
+    .thumbnail-swiper {
+        height: 20%;
+        width: 100%;
+        padding: 0 2rem;
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        color: $primary;
+        background-color: transparent;
+        padding: 0;
+
+        &::after {
+            font-family: 'FontAwesome' !important;
+            color: $primary !important;
+            font-size: 30px;
+            font-weight: 200;
+        }
+    }
+
+    .swiper-button-next {
+        margin-inline-end: 0;
+
+        &::after {
+            content: "\f054" !important;
+        }
+    }
+
+    .swiper-button-prev {
+        margin-inline-start: 0;
+
+        &::after {
+            content: "\f053" !important;
+        }
+    }
+}
+
+@include for-phone {
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none !important;
+    }
+}
+
+[data-layout-dir="rtl"] {
+    .swiper-button-next {
+
+
+        &::after {
+            content: "\f060" !important;
+
+        }
+    }
+
+    .swiper-button-prev {
+
+        &::after {
+            content: "\f061" !important;
+
+        }
+    }
+
+    .thumb-swiper {
+
+        .swiper-button-next {
+            margin-inline-end: 0;
+
+            &::after {
+                content: "\f053" !important;
+            }
+        }
+
+        .swiper-button-prev {
+            margin-inline-start: 0;
+
+            &::after {
+                content: "\f054" !important;
+            }
+        }
+    }
+
+}

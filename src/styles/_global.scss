@@ -1,0 +1,230 @@
+@for $i from 1 through 300 {
+  .width-#{$i} {
+    width: #{$i}px;
+  }
+
+  .height-#{$i} {
+    height: #{$i}px;
+  }
+
+  .font-#{$i} {
+    font-size: #{$i}px;
+  }
+
+  .underline-#{$i} {
+    position: relative;
+    padding-bottom: 16px;
+
+    &:before {
+      content: "";
+      position: absolute;
+      bottom: 0px;
+      left: 0;
+      right: 0;
+      background: $primary;
+      height: 4px;
+      border-radius: 6px;
+      visibility: visible;
+      width: #{$i}px;
+      transition: 0.15s all ease-out;
+    }
+  }
+
+  .underline-#{$i}-center {
+    position: relative;
+    padding-bottom: 16px;
+
+    &:before {
+      content: "";
+      position: absolute;
+      bottom: 0px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: $primary;
+      height: 4px;
+      border-radius: 6px;
+      visibility: visible;
+      width: #{$i}px;
+      transition: 0.15s all ease-out;
+    }
+  }
+
+  .padding-#{$i} {
+    padding: #{$i}px;
+  }
+
+  .paddingy-#{$i} {
+    padding-top: #{$i}px;
+    padding-bottom: #{$i}px;
+  }
+
+  .paddingx-#{$i} {
+    padding-right: #{$i}px;
+    padding-left: #{$i}px;
+  }
+
+  .paddingb-#{$i} {
+    padding-bottom: #{$i}px;
+  }
+
+  .paddingt-#{$i} {
+    padding-top: #{$i}px;
+  }
+}
+
+
+@each $color, $value in $theme-colors {
+  .bg-#{$color} {
+    @if $color =="light" or $color =="black" {
+      color: $black;
+    }
+
+    @else if $color =="dark" {
+      color: $white;
+    }
+
+    @else {
+      @include button-variant($value, $value);
+    }
+  }
+}
+
+.form-select {
+  background-image: none;
+  position: relative;
+
+  &::after {
+    content: "\f0d7";
+    font-family: "FontAwesome";
+    display: inline-block;
+    color: $primary;
+    font-size: 14px;
+  }
+}
+
+.h-fit {
+  height: fit-content;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+.round-end-0 {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.round-start-0 {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+section {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+}
+
+h4 {
+  font-weight: 600;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.flex-evenly {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-col-start {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.flex-col-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.fit-content {
+  width: fit-content;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $primary;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  color: unset;
+}
+input{
+  height: 40px;
+}
+input[type='hidden'] {
+  display: none;
+  visibility: hidden;
+}

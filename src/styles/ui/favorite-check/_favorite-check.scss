@@ -1,0 +1,24 @@
+.field-check {
+    position: relative;
+    width: 100%;
+    border-radius: 4px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    input {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 24px;
+        height: 24px !important;
+    }
+
+    padding-bottom: 110%;
+
+    p {
+        position: absolute;
+        bottom: 0;
+        padding: 1rem;
+    }
+}

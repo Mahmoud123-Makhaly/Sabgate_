@@ -1,0 +1,10 @@
+export { default as Carousel } from "./carousel/Carousel";
+export { default as Figures } from "./figures/Figures";
+export { default as Clients } from "./clients/Clients";
+export { default as Waterproof } from "./waterproof-systems/Waterproof";
+export { default as Material } from "./material/Material";
+export { default as ChooseOrder } from "./choose-order/ChooseOrder";
+export { default as Isolation } from "./isolation/Isolation";
+export { default as Solutions } from "./flex/Flex";
+export { default as IconCards } from "./icon-cards/IconCards";
+export { default as FixedButtons } from "./fixed-buttons/FixedButtons";

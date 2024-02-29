@@ -1,0 +1,901 @@
+{
+  "COMP_Navbar": {
+    "HOME": "Home",
+    "PACKAGES": "Packages",
+    "INSULATION": "Insulation Systems",
+    "APPLICATIONS": "Applications and services",
+    "SHOP": "Shop",
+    "GUIDE": "Construction guide",
+    "CONTACT_US": "Contact us",
+    "BLOG": "Blog",
+    "QUESTIONS": "Frequent Questions"
+  },
+  "COMP_Footer": {
+    "SUBSCRIBE_NOW": "Subscribe Now",
+    "FOLLOW_US": "Follow Us",
+    "ABOUT_SAB": "It is part of the SABB Group, which operates in several businesses: E-commerce - Management Consulting - General Maintenance & Cleaning Services & Pest Control, established 2004.",
+    "SUPPORT_TEAM": "Support Team",
+    "TERMS": "Terms and Conditions",
+    "DELIVERY_POLICY": "Delivery Policy",
+    "RETURN_POLICY": "Return Policy",
+    "CONTACT_US": "Contact us",
+    "SAB_ADDRESS": "Julphar Office Tower 2508 - Al Hisn Road - Dafan Al Nakheel - Ras Al Khaimah - United Arab Emirates",
+    "SAB": "SAB",
+    "SHOP": "Shop",
+    "SAB_TEAM": "Sab team",
+    "GET_APP": "Get the app",
+    "EMAIL_ADDRESS": "Email Address"
+  },
+  "COMP_ForgotPassword": {
+    "FORGOT_PASSWORD": "Forgot Password",
+    "EMAIL_ADDRESS": "Email Address",
+    "ENTER_EMAIL": "Enter the email you used. We will send you a link to reset your password.",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "RESET_PASSWORD": "Reset Password",
+    "OR": "Or",
+    "BACK": "back to",
+    "LOGIN": "Login"
+  },
+  "COMP_ResetPassword": {
+    "NEW_PASSWORD": "Create a new password",
+    "REPEAT_NEW_PASSWORD": "Re-enter the new password",
+    "RESET_PASSWORD": "Reset Password",
+    "BACK": "back to",
+    "LOGIN": "Login",
+    "OR": "Or"
+  },
+  "COMP_LoginForm": {
+    "LOGIN": "Login",
+    "EMAIL_ADDRESS": "Email Address",
+    "PASSWORD": "Password",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PASSWORD": "Required Password",
+    "REMEMBER_ME": "Remember me?",
+    "DID_FORGOT_PASSWORD": "Did you forget password?",
+    "DONT_HAVE_EMAIL": "Don't have email ?",
+    "SIGNUP": "Create new Email",
+    "INVALID_EMAIL_OR_PASSWORD": "Invalid Email Or Passord"
+  },
+  "COMP_SignUpForm": {
+    "NAME": "Name",
+    "EMAIL_ADDRESS": "Email Address",
+    "PASSWORD": "Password",
+    "CONFIRM_PASSWORD": "Confirm password",
+    "TERMS_CONDITIONS": "Accept terms and conditions",
+    "SIGNUP": "Sign up",
+    "REGISTER": "Sign up",
+    "OR": "Or",
+    "FACEBOOK_LOGIN": "Login with Facebook",
+    "GOOGLE_LOGIN": "Login with Google",
+    "HAVE_EMAIL": "Do you have email ?",
+    "LOGIN": "Login",
+
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PASSWORD": "Required Password",
+    "INVALID_EMAIL": "Invalid Email Address",
+
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "PASSWORD_REGX_MATCH": "The password must begin with the letter K and contain a symbol.",
+    "CONFIRM_PASSWORD_MATCH": "The passwords must be identical    ",
+    "REQUIRED_TERMS_CONDITIONS": "          You must agree to the terms and conditions",
+    "BTN_REGISTER_LABEL": "Craeate Account",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "ALREADY_EMAIL_EXISTS": "We are sorry. This email already exists. Please try a different email address to register, or login to your existing account.",
+    "SUCCESS_MSG": "Account successfully created",
+    "SUCCESS_MSG_COUNTER": "  done successfully    "
+  },
+  "COMP_Email_Confirmation": {
+    "EMAIL_SENT": "Email has been sent",
+    "CONFIRM_EMAIL": "Please check your email inbox for the password recovery link.",
+    "EMAIL_NOT_SENT": "Didn't find your email?",
+    "RESEND": "Resend",
+    "OR": "Or",
+    "BACK_TO": "Back to",
+    "LOGIN": "Login"
+  },
+  "COMP_FieldSelect": {
+    "TELL_US": "Tell us about your field",
+    "BETTER_SERVICE": "We want to provide you with better service...",
+    "IDENTIFY_FIELD": "Choose your field",
+    "CONFIRM": "Confirm",
+    "FIELD_SELECT": "Select your field",
+    "INDIVIDUALS": "Individuals/companies"
+  },
+  "COMP_ToolBar": {
+    "NOTIFICATION": "Notification",
+    "SHOPPING_CART": "Cart",
+    "FAVORITES": "Wishlist",
+    "MY_ACCOUNT": "My Account",
+    "SEARCH": "Search...",
+    "LOGIN": "Login",
+    "CREATE_aCCOUNT": "Create Account"
+  },
+  "COMP_HomeCarousel": {
+    "SAB-PLATFORM": "SAPGate is our e-commerce platform that provides a convenient and efficient way For contractors, property developers and building owners to purchase waterproofing materials and systems",
+    "SHOP_PRODUCtS": "Shop our products",
+    "DISCOVER": "Discover Now",
+    "PROJECT-HELP": "We help you in your project excution",
+    "CONTACT_US": "Contact us"
+  },
+  "COMP_ConstructionGuide": {
+    "NEXT_LABEL": "Next",
+    "PREV_LABEL": "Prev",
+    "SEARCH": "Search",
+    "CHOOSE_FEILD": "Choose Feild"
+  },
+  "COMP_ShoppingCart": {
+    "CART_SUMMARY": "Summary",
+    "SUB_TOTAL": "Sub total",
+    "DELIVERY_CHARGE": "Delivery fees",
+    "TAXES": "Taxes",
+    "TOTAL": "total",
+    "CHECKOUT_BTN": "Checkout",
+    "SHOPPING_CART": "Cart"
+  },
+  "COMP_BreadCrumb": {
+    "BREAD_MAIN": "Home"
+  },
+  "COMP_CartItem": {
+    "NEW": "New",
+    "DELIVERY_TIME": "Delivery within 2 days",
+    "SIZE": "Size:",
+    "DENSITY": "Density:",
+    "THICKNESS": "Thickness:"
+  },
+  "COMP_Checkout": {
+    "EDIT": "Edit",
+    "ADD_NEW_ADDRESS": "Add New Addresses",
+    "SUBTOTAL": "Subtotal",
+    "DELIVERY_FEES": "Delivery Fees",
+    "DISCOUNT_COUPON": "Discount Coupon",
+    "TOTAL": "Total",
+    "AGREE": "Agree",
+    "TERMS_CONDITIONS": "Accept terms and conditions",
+    "CART_SUMMARY": "Cart Summary",
+    "SHIPPING_ADDRESSES": "Shipping Addresses",
+    "REVIEW_ORDER": "Review The Order",
+    "COMPLETE_PURCHASE": "Complete Purchase",
+    "CURRENCY": "E.G",
+    "APPLIED": "Applied",
+    "DISCOUNT": "Discount",
+    "SUCCESSFULLY": "Successfully",
+    "SAVED": "Saved",
+    "REMOVE_COUPON": "Remove Coupon",
+    "Add_CODE": "Add Code +",
+    "APPLY": "Apply",
+    "CANCEL": "Cancel",
+    "BREAD_MAIN": "Home",
+    "BREAD_CHECKOUT": "Checkout",
+    "BREAD_SHOPPING_CART": "Shopping Cart",
+    "PAYMENT_CASH": "Cash Payment",
+    "ADD_ADDRESS_HEADER": "Add Address",
+    "ADD_ADDRESS_SUCCESSFUL": "Address Added Successfully",
+    "ADDRESS_SELECTED": "Address Selected",
+    "VIEW_ADDRESSES_LIST": "Select Address",
+    "EDIT_ADDRESS_HEADER": "Edit Address"
+  },
+  "COMP_Item_Recap": {
+    "QUANTITY": "Quantity"
+  },
+  "COMP_Order_Recap": {
+    "DELIVERY_TIME": "Delivery will be"
+  },
+  "COMP_AddAddresses": {
+    "FIRST_NAME": "First Name",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "LAST_NAME": "Last Name",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "EMAIL_ADDRESS": "Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "PHONE_NUMBER": "Phone Number",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Required",
+    "INVALID_PHONE_NUMBER": "Phone number is not valid",
+    "CITY": "City",
+    "REQUIRED_CITY": "Please select your city.",
+    "LINE1": "Address Details",
+    "REQUIRED_ADDRESS": "Please enter your street name or any landmarks.",
+    "BUILDING": "Building",
+    "REQUIRED_BUILDING_NUMBER": "Please enter your building number",
+    "FLOOR": "Floor",
+    "REQUIRED_FLOOR_NUMBER": "Please enter your floor number",
+    "FLAT": "Flat",
+    "REQUIRED_FLAT_NUMBER": "Please enter your apartment number",
+    "SAVE_ADDRESSES": "Save Addresses",
+    "CANCEL": "Cancel",
+    "DEFAULT_SELECT": "Select ...",
+    "DISTRICT": "District",
+    "REQUIRED_DISTRICT": "Please select your district",
+    "HOME": "Home",
+    "WORK": "Work",
+    "OTHER": "Other",
+    "REQUIRED_ADDRESS_TYPE": "Please select the address type.",
+    "SET_DEFAULT": "Set As Default"
+  },
+  "COMP_AddressForm": {
+    "HOME": "Home",
+    "WORK": "Work",
+    "OTHER": "Other",
+    "CANCEL": "Cancel"
+  },
+  "COMP_Invoice": {
+    "ORDER_COMPLETED": "The request was completed successfully",
+    "ORDER_CONFIRMATION": "Your order has been confirmed successfully. You will be sent a confirmation email or text message and a link to track your order.",
+    "TOTAL_SUB": "Subtotal",
+    "DELIVERY_FEES": "Delivery Charge",
+    "TOTAL": "Total",
+    "ORDER_DETAILS": "Order details",
+    "ORDER_SUMMARY": "Order Summary",
+    "THANKS_MESSAGE": "Thank you for shopping at Sab gate, we look forward to doing business with you again."
+  },
+  "COMP_Contact_Us": {
+    "BRANCHES_HEADER": "Our branches",
+    "BRANCHES_HEADER_MESSAGE": "Find out where we are and view details on a map for more information about office and branch locations",
+    "MODAL_THANKS": "Sended Thank you for contacting us!",
+    "MODAL_MESSAGE": "We appreciate you contacting us. We try to respond as soon as possible, and one of our representatives will respond to you shortly.",
+    "MODAL_BUTTON": "Continue shopping",
+    "Form": {
+      "HEADER_THANKS": "Thank you for your interest in Sab gate",
+      "HEADER_MESSAGE": "We look forward to that, and we are here to serve you! Do not hesitate to contact us",
+      "EMAIL": "Email",
+      "ADDRESS": "Address",
+      "SUBJECT": "Subject",
+      "MESSAGE": "Message",
+      "MESSAGE_ERROR": "Message Is Required",
+      "FIRST_NAME_ERROR": "First Name Is Required",
+      "INVALID_EMAIL_ERROR": "Invalid Email Address",
+      "EMAIL_ADDRESS": "Email Address",
+      "EMAIL_ERROR": "Required Email",
+      "FIRST_NAME": "First name",
+      "LAST_NAME": "Last name",
+      "SUBMIT_BUTTON": "Send"
+    },
+    "BranchCard": {
+      "MAP_LINK": "Go to map"
+    },
+    "ContactCard": {
+      "CONTACT_US": "Contact us",
+      "CONTACT_EMAIL": "Email Address :",
+      "CONTACT_PHONE": "Phone Number :",
+      "CONTACT_SOCIAL": "Follow us on :",
+      "CONTACT_CONTACT_US": "Contact us :"
+    }
+  },
+  "COMP_ProductDetails": {
+    "Details": {
+      "SIZE": "Size:",
+      "DENSITY": "Density:",
+      "THICKNESS": "Thickness:",
+      "CONTACT_US": "Contact us",
+      "SHARE": "Share",
+      "ADD_TO_CART_BTN": "Add to cart",
+      "SAMPLE_REQUEST": "Sample Request",
+      "NEW": "New",
+      "EVALUATE": "Evaluate",
+      "DELIVERED_DAY": "Delivered In",
+      "REQUEST_PRICE_VIEW": "Price Request View",
+      "COMPARISON": "Comparison"
+    },
+    "Info": {
+      "SPECIFICATIONS": "Specifications",
+      "PRODUCT_DATE": "Product Date",
+      "WEIGHT": "Weight",
+      "THIKNESS": "THIKNESS",
+      "DETAILS": "Details",
+      "BENFITS": "Befites",
+      "COMMON_QUESTIONS": "Common Questions",
+      "EVALUATIONS": "Evaluations",
+      " ADD_TO_CART_BIN": "Add to Cart"
+    },
+    "RelatedProducts": {
+      "REQUEST_PRICE_VIEW": "Price Request View",
+      "ADD_TO_CART": "Add to Cart",
+      "SEE_ALL": "See All",
+      "SIMILAR_PRODUCTS": "Similar Products"
+    }
+  },
+  "COMP_ProductsList": {
+    "FOUND_ITEMS": "Found {count} products",
+    "LIST_COUNT_TITLE": "view",
+    "ADD_TO_CART_BTN": "Add To Cart",
+    "12_In_PAGE": "12 In Page",
+    "24_In_PAGE": "24 In Page",
+    "36_In_PAGE": "36 In Page",
+    "BREAD_MAIN": "Home",
+    "BREAD_BAKED": "Baked",
+    "NEXT_LABEL": "Next",
+    "PREV_LABEL": "Previous",
+    "REQUEST_QOUTE": "Request View Prices",
+    "ADD_TO_CART": "Add to cart"
+  },
+  "COMP_SidebarFilter": {
+    "ALL": "All",
+    "SORT_BY": "Sort By",
+    "FEATURED": "Featured",
+    "ALPHABET_AZ": "Alphabetically, A-Z",
+    "ALPHABET_ZA": "Alphabetically, Z-A",
+    "PRICE_LH": "Price, low to high",
+    "PRICE_HL": "Price, high to low",
+    "DATE_NO": "Date, new to old",
+    "DATE_ON": "Date, old to new",
+    "CLASSIFICATION_BY": "Classification By",
+    "ALLERGENS": "Allergens",
+    "PRICE": "Price",
+    "DELETE": "Delete",
+    "PRODUCTS": "Products",
+    "SELECT": "Select"
+  },
+  "Comp_Shop": {
+    "FIND_OUT_MORE": "Find Out More",
+    "SAB_GATE": "Sab Gate",
+    "SAB_ELECTRONIC_STORE": "Sap Electronic Store",
+    "ASK_EXPERTS": "Ask Exeperts",
+    "SAB_INFORMATION_CENTER": "Sab Information Center"
+  },
+  "COMP_Price_Range": {
+    "FROM": "from",
+    "TO": "to"
+  },
+  "COMP_MobileFilter": {
+    "FILTRATION": "Filtration",
+    "FILTER": "Filter By",
+    "SORT": "Sort By",
+    "DELETE_ALL": "Delete All",
+    "CATEGORIES": "categories",
+    "DELETE": "Delete",
+    "FEATURED": "Featured",
+    "ALPHABET_AZ": "Alphabetically, A-Z",
+    "ALPHABET_ZA": "Alphabetically, Z-A",
+    "PRICE_LH": "Price, low to high",
+    "PRICE_HL": "Price, high to low",
+    "DATE_NO": "Date, new to old",
+    "DATE_ON": "Date, old to new",
+    "PRICE": "Price"
+  },
+  "COMP_Material": {
+    "PRICE_LIST": "Request price list",
+    "ADD_TO_CART": "Add to cart",
+    "HEAT_ISOLATE": "Heat insulating materials",
+    "SEE_ALL": "See All"
+  },
+  "COMP_ChooseOrder": {
+    "CHOOSE_ORDER": "Choose your order",
+    "CHOOSE_SERVICE": "Choose the service type",
+    "IDENTIFY_SPACE": "Select the required space",
+    "CHOOSE_PRODUCTS": "Choose the adequate products",
+    "PRICE_LIST": "Price List"
+  },
+  "COMP_Waterproof": {
+    "WATERPROOFING": "Waterproofing systems services",
+    "SEE_ALL": "See All",
+    "THIN_FILM": "Bitumen waterproofing systems",
+    "LIQUID_ISOLATION": "Liquid membrane waterproofing systems",
+    "BITUMEN": "Bitumen waterproofing systems",
+    "CEMENT_ISOLATION": "Cement waterproofing systems"
+  },
+  "EMPTY_COMPARISON": {
+    "NOT_FOUND": "There is no comparison between products",
+    "TO_SHOP": "Go To Shop"
+  },
+  "COMP_Clients": {
+    "OUR_CLIENTS": "Our Clients"
+  },
+  "COMP_StepForm": {
+    "BACK": "back",
+    "SKIP": "Skip",
+    "NEXT": "Next",
+    "APPLICATIONS_SERVICES": "Applications and Services",
+    "REQUEST_RECEIVED": "Your request has been received successfully",
+    "CONTACT_AS_SOON_AS": "We will contact you as soon as possible"
+  },
+  "COMP_Figures": {
+    "PRODUCTS": "Products",
+    "CONSULTING": "Consulting services",
+    "PACKAGES": "Packages"
+  },
+  "COMP_PROFILE": {
+    "ACCOUNT": "My Account",
+    "FAVORITE": "Favorite",
+    "ADDRESS": "Address",
+    "ORDERS": "Orders",
+    "CARDS": "Cards",
+    "BREAD_MAIN": "Home",
+    "BREAD_PROFILE": "My Profile",
+    "QUTATION_REQUEST": "   View Price request  "
+  },
+  "COMP_WishList": {
+    "12_In_PAGE": "12 In Page",
+    "24_In_PAGE": "24 In Page",
+    "36_In_PAGE": "36 In Page",
+    "LIST_COUNT_TITLE": "view",
+    "ADD_TO_CART_BTN": "Add To Cart",
+    "NEXT_LABEL": "Next",
+    "PREV_LABEL": "Previous",
+    "REQUEST_PRICE_VIEW": "Price Request View",
+    "ADD_TO_CART": "Add to Cart"
+  },
+  "Comp_CompletedOrderCard": {
+    "ORDER_NUMBER": "Order Number",
+    "DELIVERED": "Delivered",
+    "PAYMENT_METHOD": "Payment Method",
+    "PRICE": "Price",
+    "EVALUATE": "Evaluate",
+    "ORDER_RETURN": " Order Return  "
+  },
+
+  "Comp_CanceledOrderCard": {
+    "ORDER_NUMBER": "Order Number",
+    "CANCELED": "Canceled",
+    "PAYMENT_METHOD": "Payment Method",
+    "PRICE": "Price",
+    "EVALUATE": "Evaluate",
+    "ORDER_RETURN": " Order Return  "
+  },
+  "COMP_P_AddAddresses": {
+    "FIRST_NAME": "First Name",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "LAST_NAME": "Last Name",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "EMAIL_ADDRESS": "Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "PHONE_NUMBER": "Phone Number",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Required",
+    "INVALID_PHONE_NUMBER": "Phone number is not valid",
+    "CITY": "City",
+    "REQUIRED_CITY": "Please select your city.",
+    "LINE1": "Address Details",
+    "REQUIRED_ADDRESS": "Please enter your street name or any landmarks.",
+    "BUILDING": "Building",
+    "REQUIRED_BUILDING_NUMBER": "Please enter your building number",
+    "FLOOR": "Floor",
+    "REQUIRED_FLOOR_NUMBER": "Please enter your floor number",
+    "FLAT": "Flat",
+    "REQUIRED_FLAT_NUMBER": "Please enter your apartment number",
+    "SAVE_ADDRESSES": "Save Addresses",
+    "CANCEL": "Cancel",
+    "DEFAULT_SELECT": "Select ...",
+    "DISTRICT": "District",
+    "REQUIRED_DISTRICT": "Please select your district",
+    "HOME": "Home",
+    "WORK": "Work",
+    "OTHER": "Other",
+    "REQUIRED_ADDRESS_TYPE": "Please select the address type."
+  },
+  "COMP_MyAccount": {
+    "PERSONAL_INFORMATION": "Personal Information",
+    "FIRST_NAME": "First Name",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "LAST_NAME": "Last Name",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "EMAIL_ADDRESS": "Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "ALREADY_EMAIL_EXISTS": "We are sorry. This email already exists. Please try a different email address to register, or login to your existing account.",
+    "PHONE_NUMBER": "Phone Number",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Required",
+    "INVALID_PHONE_NUMBER": "Phone number is not valid",
+    "COMPANY_NAME": "Company Name",
+    "LANGUAGE": "Language",
+    "BIRTHDATE": "Birth date",
+    "INVALID_BIRTH_DATE": "Invalid birthdate. Make sure the day, month, and year are within valid ranges.",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "CHANGE_PASSWORD": "Change Password",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "SUCCESS_MSG": "Your personal information has been updated successfully."
+  },
+  "COMP_Profile_Address": {
+    "ADD_NEW_ADDRESS": "Add New Addresses",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "SUCCESS_UPDATE_MSG": "Your address has been updated successfully.",
+    "SUCCESS_ADD_MSG": "Your address has been added successfully.",
+    "EMPTY_MSG": "There are no addresses right now.",
+    "BACK_TO_HOME": "Back to home"
+  },
+  "Comp_CurrentOrder": {
+    "MY_ORDERS": "My Orderds",
+    "PRODUCT_SEARCH": "Search by product or category name",
+    "CURRENT_ORDERS": "Current Orders",
+    "ORDERS_COMPLTED": "Order Completed",
+    "RETURNS": "Returns",
+    "CANCELED_ORDERS": "Canceled Orders"
+  },
+
+  "Comp_CurrentOrderCard": {
+    "ORDER_NUMBER": "Order Number",
+    "DELIVERED": " Delivered  ",
+    "PAYMENT_METHOD": "Payment Method",
+    "PRICE": "Price",
+    "EVALUATE": "Evaluate",
+    "ORDER_RETURN": " Order Return  ",
+    "DETAILS": "Details"
+  },
+  "Comp_Item_Recap": {
+    "QUANTITY": "Quantity"
+  },
+  "Comp_Order_Return": {
+    "ORDER_RETURN": "Order Return",
+    "SHIPPING_DETAILS": "Shipping Details ",
+    "SUBTOTAL": "Subtotal",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "TOTAL",
+    "BILL": "Bill",
+    "CASH": "Cash",
+    "CART_SUMMARY": "Cart Summary",
+    "RETURN_CONFIRMATION": "Confirm return",
+    "REQUIRED_RETURN_REASON": "Please tell Us Return Reason ",
+    "CONFIRM_RETURN": "Confirm Return",
+    "RETURN_REASON": "What Is The Reason Of Return",
+    "Comp_Order_Return_Card": {
+      "QUANTITY": "Quantity"
+    }
+  },
+  "Comp_Recovery_Details": {
+    "RECOVEY_DETAILS": "Recovery Details",
+    "SELECT_DAY": "Select Day",
+    "SUNDAY": "Sunday",
+    "MONDAY": "Monday",
+    "TUESDAY": "Tuesday",
+    "SELECT_TIMING": "Choose the timing",
+    "EVENING": "Evening",
+    "MORNING": "Morning",
+    "SHIPPING_DETAILS": "Shipping Details ",
+    "SUBTOTAL": "Subtotal",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "Total",
+    "BILL": "Bill",
+    "CART_SUMMARY": "Cart Summary",
+    "CASH": "Cash",
+    "RECOVERY_CONFIRMATION": "Recovery confirmation"
+  },
+  "Comp_Change_Password": {
+    "CHANGE_PASSWORD": "Change Password",
+    "CURRENT_PASSWORD": "Current Password",
+    "REQUIRED_CURRENT_PASSWORD": "Current Password Is Required",
+    "CURRENT_PASSWORD_INVALID": "Sorry, but current password is not valid",
+    "NEW_PASSWORD": "New Password",
+    "REQUIRED_NEW_PASSWORD": "New Password Is Required",
+    "NEW_PASSWORD_REGX_MATCH": "Passwords must have at least one uppercase and one lowercase and 8 chars and one special character",
+    "REPEAT_NEW_PASSWORD": "Re-enter the new password",
+    "SAME_PASSWORD_ERR": "New password is the same as old password. Please choose another one.",
+    "REQUIRED_REPEAT_NEW_PASSWORD": "Please Reat New Password",
+    "REPEAT_NEW_PASSWORD_MATCH": "Password not matched",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "SUCCESS_MSG": "Password updated successfully.",
+    "SUCCESS_MSG_COUNTER": "Logout in {countdown} seconds..."
+  },
+  "Comp_Order_Recap": {
+    "DELIVERY_TIME": "Delivery is done within"
+  },
+  "COMP_InfoBar": {
+    "ADDRESS": "Julphar Office Tower 2508 - Al Hosn Road - Dafan Al Nakheel - Ras Al Khaimah - United Arab Emirates"
+  },
+  "COMP_EmptyWishlist": {
+    "WISHLIST-IS-EMPTY": "Wish list is empty",
+    "EMPTY_TILL_NOW": "You don't have anything in your Wish list yet.",
+    "SHOP_NOW": "Start shopping now"
+  },
+  "COMP_Custom404": {
+    "NOT_FOUND": "Oops! The page you're looking for can't be found.",
+    "BACK_TO_HOME": "Back to home page"
+  },
+  "COMP_Qutation": {
+    "QUTATION_REQUEST": "Ask for qutation",
+    "PRODUCT_SEARCH": "Search by product name",
+    "NEXT": "Next"
+  },
+  "COMP_QutationCard": {
+    "QUTATION_NUMBER": "Qutation number",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone"
+  },
+  "Comp_View_Returns": {
+    "VIEW_RETURNS": "View Returns",
+    "SHIPPMENT_DELIVERY_ADDRESS": "Shipment delivery address",
+    "SHIPPMENT_DELIVERY_TIME": "Shipment delivery time",
+    "MONDAY": "Monday",
+    "EVENING": "Evening",
+    "BILL": "Bill",
+    "CASH": "Cash",
+    "CART_SUMMARY": "Cart Summary",
+    "SUBTOTAL": "Subtotal",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "TOTAL",
+    "RETURN_CONFIRMATION": "Confirm return"
+  },
+  "Comp_View_Returns_Card": {
+    "QUANTITY": "Quantity",
+    "RETURN_REASON": "What Is The Reason Of Return"
+  },
+  "Comp_Order_Return_invoice": {
+    "RETURN_SUCCESSFULLY": "Your return request has been completed successfully",
+    "RETURN_MESSAGE": "Your return has been requested successfully. You will be sent a confirmation email or text message and a link to track your order",
+    "ORDER_NUMBER": "Order Number",
+    "CANCEL_ORDER": "Cancel Order",
+    "MONDAY": "Monday",
+    "EVENING": "Evening",
+    "SHIPPMENT_DELIVERY_ADDRESS": "Shipment delivery address",
+    "SHIPPMENT_DELIVERY_TIME": "Shipment delivery time",
+    "SUBTOTAL": "Subtotal",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "TOTAL",
+    "BILL": "Bill",
+    "CASH": "Cash",
+    "CART_SUMMARY": "Cart Summary"
+  },
+  "Comp_ReturnedCard": {
+    "ORDER_NUMBER": "Order Number",
+    "DETAILS": "Details",
+    "PAYMENT_METHOD": "Payment Method"
+  },
+  "Comp_Rating_Card": {
+    "PRODUCT_EVALUATE": "Order Evaluate",
+    "DELIVERY_EVALUATE": " Delivery  Evaluate"
+  },
+  "COMP_Product_Evaluation": {
+    "WHRITE_PRODUCT_EVALUATION": "Write Product Evaluation",
+    "EXEPERIENCE_INQUIRY": "How was your experience with the product?",
+    "SEND": "Send",
+    "REQUIRED_EVALUATION": "Evaluation Is Required"
+  },
+  "COMP_Delivery_Evaluation": {
+    "WHRITE_DELIVERY_EVALUATION": "   Write Delivery Evaluation  ",
+    "EXEPERIENCE_INQUIRY": "       How was your experience with the Delivery?  ",
+    "SEND": "Send",
+    "REQUIRED_EVALUATION": "Evaluation Is Required"
+  },
+  "Comp_Rating_Feedback": {
+    "EVALUATION_SEND_SUCCESSFULLY": "Evaluation has been sent successfully",
+    "THANKS_MESSAGE": "Thank you for the rating. The review has been sent successfully",
+    "CONTINUE_SHOPPING": "Continue Shopping"
+  },
+  "COMP_Return_Details": {
+    "PREPARING": "Preparing",
+    "ON_ROAD": "On road",
+    "DELIVERED": " Delivered  ",
+    "SHIPPMENT_DELIVERY_ADDRESS": "Shipment delivery address",
+    "SHIPPMENT_DELIVERY_TIME": "Shipment delivery time",
+    "SUBTOTAL": "   Subtotal ",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "TOTAL",
+    "BILL": "Bill",
+    "CASH": "Cash",
+    "CART_SUMMARY": "Cart Summary",
+    "SHIPPING_DETAILS": "   Shipping Details",
+    "VIEW_RETURNS": "View Returns",
+    "CANCEL_ORDER": "Cancel Order",
+    "RETURNING": "Returning",
+    "ORDER_NUMBER": "Order Number",
+    "RETURNED_SUCCESSFULLY": "Recovered Successfully",
+    "RETURNED": "Returned",
+    "RECOVERED": "Money Recovery"
+  },
+  "COMP_FixedButtons": {
+    "COMPARISONS": "Comparisons",
+    "CONTACT_US": "Contact us"
+  },
+  "COMP_Flex": {
+    "INNVATIVE_SOLUTIONS": "Innovative solutions for waterproofing systems",
+    "SEE_MORE": "See More"
+  },
+  "COMP_BlogCard": {
+    "ARTICLE_FROM_SITE": " Article from the site ",
+    "READ_MORE": " Read More  "
+  },
+  "COMP_BlogDetails": {
+    "AUTHOR_WORDS": " Author of    ",
+    "ARTICLE_FROM_SITE": "   Article from the site ",
+    "SORT_BY": "Sort By",
+    "LAST_UPDATE": "Last Update",
+    "PREVIOUS_ARTICLE": "Previous article",
+    "WATER_INSULATION_SYSTEM": "Water insulation systems ",
+    "SUBSCRIBE_NEWSLETTER": "Subscribe to the newsletter  ",
+    "BY_EMAIL": "By email to get the latest posts delivered directly to your email. ",
+    "SUBSCRIBE_NOW": "Subscribe Now",
+    "EMAIL": "Email",
+    "RELATED_ARTICLES": "Related articles"
+  },
+  "COMP_RelatedArticle": {
+    "ARTICLE_FROM_SITE": "Article from the site"
+  },
+
+  "COMP_BetterService": {
+    "INDIVIDUALS": "Individuals",
+    "COMPANIES": "Companies"
+  },
+  "COMP_Budget": {
+    "WHAT_IS_YOUR_BUDGET": "What Is Your Budget ?  ",
+    "MIN_PRICES": "Min Price",
+    "UNLIMITED": "UnLimited",
+    "MAX_PRICE": "Max Price"
+  },
+  "COMP_Property": {
+    "CHOOSE_BUILDING_TYPE": "Choose Building Type",
+    "APARTMENT": "Apartment",
+    "VILLA": "Villa",
+    "HOUSING_GATHEERING": "Housing Gathering",
+    "ECOMMERCE_BUILDING": "Ecommerce Building",
+    "INSTITUION": "Institution",
+    "RENEW_REBUILDING": "Renew And Rebuilding",
+    "MORE_DETAILS": "More details... We want to provide you with a better service...",
+    "MORE_DETAILS_PLACEHOLDER": "More Details...",
+    "OTHER": "Other"
+  },
+  "COMP_ServicesType": {
+    "SERVICES_TYPE": "Services Type You Want",
+    "IMPROVE_BUILDING_PERFORMANCE": "Improve Buildings Performace",
+    "WATERBROOF_SERVICES": "WaterProof Services",
+    "SERVICES_CONSULTATIONS": "Services And Cosultaions",
+    "OTHER": "Other"
+  },
+  "COMP_WaterProof": {
+    "WATER_PROOF_SERVICES": " Water Proof Services    ",
+    "THIN_WATERPROOF": "Thin film waterproofing systems",
+    "LIQUID_WATERPROOFING": "Liquid membrane waterproofing systems",
+    "CEMENT_WATERPROOFING": "Cement waterproofing systems        ",
+    "BITUMEN_WATERPROOFING": "Bitumen waterproofing systems     ",
+    "POLYURETHANE_WATERPROOFING": "Polyurethane liquid membrane waterproofing systems     ",
+    "RENEW_REBUILDING": "Renew And Rebuilding",
+    "POLYMER_MODIFIED_SYSTEM": "Polymer modified cement systems    ",
+
+    "POLYMER_MODIFIED_SYSTEMS": "Polymer Modified Systems"
+  },
+
+  "COMP_PersonalInfo": {
+    "PERSONAL_DATA": "Personal Data To Contact You",
+    "NAME": "Name",
+    "PHONE_NUMBER": "Phone Number"
+  },
+  "COMP_Package": {
+    "INDIVIDUALS": "Individuals",
+    "COMPANIES": "Companies"
+  },
+  "Comp_OrderDetails": {
+    "SUBTOTAL": "   Subtotal ",
+    "DELIVERY_FEES": "Delivery Fees",
+    "TOTAL": "Total",
+    "DELIVERED_SUCCESS": "Delivered",
+    "ORDER_NUMBER": "Order Number",
+    "CANCEL_ORDER": "Cancel Order",
+    "ORDER_RETURN": " Order Return  ",
+    "PREPARING": "Preparing",
+    "ON_THE_ROAD": " On Road  ",
+    "DELIVERED": " Delivered  ",
+    "OUT_FOR_DELIVERY": "Out To dekiver ",
+    "CANCEL_MSG": " Order Cancelled    ",
+    "SHIPPING_DETAILS": "   Shipping Details",
+    "BILL": "Bill",
+    "CASH": "Cash",
+    "CART_SUMMARY": "Order Summary",
+    "ORDER_DETAILS": "   Order Details",
+    "CANCEL_INQUIRY": "Cancel Order",
+    "YES": "Yes ",
+    "NO": "No"
+  },
+  "Comp_Progress_Bar": {
+    "PREPARING": "Preparing",
+    "ON_THE_ROAD": " On Road  ",
+    "SHIPPED": "Shipped",
+    "OUT_FOR_DELIVERY": " Out To Delivery  ",
+    "DELIVERED": " Delivered  "
+  },
+
+  "COMP_DetailsSelect": {
+    "MORE_DETAILS": " More Details",
+    "INDIVIDUALS_COMPANIES": "Idivisuals / Companies",
+    "INDIVIDUALS": "Individuals",
+    "CHOOSE_BUILDING_TYPE": "Choose Building Type",
+    "APARTMENT": "Apartment",
+    "VILLA": "Villa",
+    "CHOOSE_SERVICES": "Choose  Services",
+    "COMPANIES": "Companies",
+    "NEAREST_SPACE": "Choose the closest area to the site",
+    "ADDITIONAL_INFORMATION": "Any Additional Information"
+  },
+  "COMP_QuatationsSummary": {
+    "ORDER_SUMMARY": "Summary of Request for Quotation",
+    "PRODUCT_CODE": "Product Code",
+    "BUILDING_TYPE": "Building Type",
+    "SERVICE_TYPE": "Services  Type",
+    "APARTMENT": "Apartment",
+    "VILLA": "Villa",
+    "WATER_ISOLATION": "Water Isolation"
+  },
+
+  "COMP_Auth_Header": {
+    "SIGNUP": "Create new Account",
+    "LOGIN": "Login"
+  },
+
+  "COMP_ResetModal": {
+    "RESET_DONE": "he password has been reset successfully",
+    "RESET_DONE_AGAIN": "Your password has been reset successfully. Now you can log in with your new password.",
+    "BACK": "Back To ",
+    "LOGIN": "Login"
+  },
+  "COMP_RESERVATION": {
+    "PERSONAL_DATA": "Personal Data",
+    "FIRST_NAME": "First Name",
+    "SECOND_NAME": "Second  Name",
+    "PHONE_NUMBER": "Phone Number",
+    "EMAIL": "Email",
+    "REMEMBER_MSG": "Send me reminders about my reservation via text message",
+    "TELL_US_SIZE_PLACE": "Tell us about the size of your place",
+    "INDIVIDUALS": "Individuals",
+    "COMPANIES": "Companies",
+    "BUILDING_SPECIFICATIONS": "Construction specifications",
+    "BUILDING_SIZE": " Building area",
+    "WATER_PROOF_REQUIREMENTS": "WaterProof Requirements",
+    "WATERPROOF_QEQUIREMENTS_PLACEHOLDERS": " Detail waterproofing requirements in terms of specific areas of the building requiring waterproofing (e.g., basement, roof, foundation, walls) Severity or extent of water-related issues Existing waterproofing systems (if applicable)",
+    "CONCERNS_PLACEHOLDER": "Any specific areas or concerns to focus on during the inspection",
+    "VISIT_COUNT": " number of visits",
+    "BUILDING_AGE": "Age of building",
+    "WEEKLY": "Weekly",
+    "MONTHLY": "monthly",
+    "ANNUALLY": "annually",
+    "SUITABLE_TIME": "Tell us the right time.",
+    "ADDITIONAL_DATA": "additional information",
+    "RELEVANT_INFO_PLACEHOLDER": " Any relevant information about previous waterproofing attempts or repairs Information about adjacent buildings or structures that may affect waterproofing considerations,",
+    "BUDGET": "Budget and financial schedule",
+    "EXPECTED_BUDGET": "Expected budget",
+    "TIMETABLE": "timetable",
+    "WATERPROOFING_ATTEMPT": "Any relevant information about previous waterproofing attempts or repairs Information about adjacent buildings or structures that may affect waterproofing considerations, ",
+
+    "ATTATACHMENTS": "Attachments",
+    "EVALUATE_WATERPROFFING": "You may attach photos, diagrams, or any other relevant documents that can help evaluate your waterproofing needs.",
+    "TERMS_CONDITIONS": " Terms and Conditions",
+    "TERMS_CONDITION_APPROVAL": "Approval of the terms and conditions of the measurement and inspection process.",
+    "SEND": "send",
+    "SKIP": "Skip",
+    "SELECT_SERVICES_TYPE": "Choose service type"
+  },
+  "COMP_News": {
+    "ARTICLE_FROM_SITE": "Article from Site",
+    "SORT_BY": "Sort By",
+    "LAST_UPDATE": "Last Update",
+    "PREVIOUS_ARTICLE": "Previous Article"
+  },
+  "COMP_SOCIAL_LOGIN": {
+    "OR": "Or",
+    "FACEBOOK_LOGIN": "Login with Facebook",
+    "GOOGLE_LOGIN": "Login with Google"
+  },
+  "COMP_Address_Template": {
+    "WORK": "Work",
+    "HOME": "Home",
+    "OTHER": "Other",
+    "EDIT": "Edit",
+    "DELETE": "Delete"
+  },
+  "COMP_Remove_Address_Modal": {
+    "REMOVE_ADDRESS": "Remove Address",
+    "DO_REMOVE_ADDRESS": "Are you sure you want to remove this address?",
+    "CONFIRM_REMOVE": "Remove",
+    "CANCEL": "Cancel"
+  }
+}

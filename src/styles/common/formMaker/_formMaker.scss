@@ -1,0 +1,27 @@
+.formMaker {
+
+  h3 {
+    padding: 0.3rem 0.1rem !important;
+  }
+
+  h6 {
+    font-size: 0.875rem;
+    line-height: 20px;
+  }
+
+  .label {
+    font-size: 1rem;
+  }
+
+  .password {
+    font-size: 0.875rem;
+  }
+
+  .forget-password {
+    text-decoration-line: underline !important;
+  }
+
+  @include for-tablet {
+    margin: auto;
+  }
+}
